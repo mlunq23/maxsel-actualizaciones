@@ -8,10 +8,10 @@
   "winSha": "51f9af72e6b75488b15f174ab672fc1ae42e1c05bb1fa076e0ef58e7b8da1541"
  },
  "nube": {
-  "ver": "1.34",
-  "notas": "Nuevo: apartado Pre-cuenta de meseros con formato propio (propina sugerida, total por persona, dolares)\nMeseros: boton Agregar mas productos al abrir una mesa\nLa caja tambien imprime la pre-cuenta desde Mesa",
-  "apk": "MaxselPOS-Nube-1.34.apk",
-  "apkSha": "285af3dd23c412cc6b4cbbe8bcf3db8fd90ffdb93e9555e0fff235b183d7ca0d"
+  "ver": "1.35",
+  "notas": "Meseros: si el nombre de la mesa ya existe avisa desde el principio\nPre-cuenta impresa: la mesa cambia de estado y para agregar mas pide PIN de gerente\nComandas de cocina con letra Grande (Impresoras)\nPre-cuenta de meseros con su propia impresora y formato distinto al de caja",
+  "apk": "MaxselPOS-Nube-1.35.apk",
+  "apkSha": "65c7c9fb6eab41344c25cfe552294dc6edd6a1b5c8eb5f0c32ff4ebc13620fef"
  },
  "hotel": {
   "ver": "1.14.0",
