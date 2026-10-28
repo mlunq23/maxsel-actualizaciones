@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.41",
-  "notas": "Nuevo: boton Conectar con Mercado Pago (solo inicias sesion y tocas Permitir)\nCorrecciones de cuentas: dolares al reabrir, formas de pago del corte, corte por mesero\nInventario exacto en conteos, tallas/colores y cuentas divididas",
-  "apk": "MaxselPOS-1.41.apk",
-  "apkSha": "4043ef77067b23543bcc2328914427a2ffe545d1cb5cbecc7502ab939c76bc79",
-  "win": "MaxselPOS-1.41-windows.zip",
-  "winSha": "cd30391866e62d81e37ee586c90c620ccc0157eb23ede43dc80d442568342bc1"
+  "ver": "1.42",
+  "notas": "Nuevo: importar el catalogo de Loyverse (productos, categorias, precios y modificadores)\nConectar con Mercado Pago (solo inicias sesion y tocas Permitir)",
+  "apk": "MaxselPOS-1.42.apk",
+  "apkSha": "c06dc1d493e42fe5895c9c2347874cdbe4bf507efe44e031a8b1d61a3d0613c0",
+  "win": "MaxselPOS-1.42-windows.zip",
+  "winSha": "51f9af72e6b75488b15f174ab672fc1ae42e1c05bb1fa076e0ef58e7b8da1541"
  },
  "nube": {
-  "ver": "1.32",
-  "notas": "Nuevo: boton Conectar con Mercado Pago (solo inicias sesion y tocas Permitir)\nCorrecciones de cuentas: dolares al reabrir, formas de pago del corte, corte por mesero\nInventario exacto en conteos, tallas/colores y cuentas divididas",
-  "apk": "MaxselPOS-Nube-1.32.apk",
-  "apkSha": "2e04654cc9a8326a76a25dd3d6635370b78cefe0a9a83eeb89f5b6f97cd16dbc",
-  "win": "MaxselPOS-Nube-1.32-windows.zip",
-  "winSha": "fdc48697264f9935c94464433790cc66d9a12e9a9e26579d6ec668bfb4901410"
+  "ver": "1.33",
+  "notas": "Nuevo: importar el catalogo de Loyverse (productos, categorias, precios y modificadores)\nConectar con Mercado Pago (solo inicias sesion y tocas Permitir)",
+  "apk": "MaxselPOS-Nube-1.33.apk",
+  "apkSha": "2a50bbd0fc855906a5cc9106c3bd6c0836d0d686548f471f22e9d37fe9eacfdf",
+  "win": "MaxselPOS-Nube-1.33-windows.zip",
+  "winSha": "83fb365bbaa7d19a1dc2c996e229d6fc9519055473ce1ca1b9c02f7d04589a16"
  },
  "hotel": {
   "ver": "1.14.0",
