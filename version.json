@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.43",
-  "notas": "Meseros: pre-cuenta con su propia impresora y formato distinto al de caja\nMesa ocupada: avisa desde el principio\nPre-cuenta impresa: para agregar mas pide PIN de gerente\nComandas con letra Grande y separador PLATO\nNombre del cliente en venta rapida / para llevar\nAjustes > Respaldo > Reiniciar ventas",
-  "apk": "MaxselPOS-1.43.apk",
-  "apkSha": "0983bb4ee7bf054b8bbe59596239b3335f390649f53f5d21755a66278048f840",
-  "win": "MaxselPOS-1.43-windows.zip",
-  "winSha": "429183dd36f5c03f361187718ddbc845900d6fdbfe58fe187e2e3fd36e289fae"
+  "ver": "1.44",
+  "notas": "Ticket: el logo de Maxsel del pie sale mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
+  "apk": "MaxselPOS-1.44.apk",
+  "apkSha": "d45ce12a3b24492aed5c931bb48b76ecd44fd46e7f265e5923ac7581e46eb086",
+  "win": "MaxselPOS-1.44-windows.zip",
+  "winSha": "e79d0c7b808b279e453027ba037813f3c7e2b5a208c413009c588bf0cb59482d"
  },
  "nube": {
-  "ver": "1.37",
-  "notas": "Meseros: pre-cuenta con su propia impresora y formato distinto al de caja\nMesa ocupada: avisa desde el principio\nPre-cuenta impresa: para agregar mas pide PIN de gerente\nComandas con letra Grande y separador PLATO\nNombre del cliente en venta rapida / para llevar\nAjustes > Respaldo > Reiniciar ventas",
-  "apk": "MaxselPOS-Nube-1.37.apk",
-  "apkSha": "da5f8109e30334ab2b990bd4663c46418b7ae95028e80c759fcfd5ea71fb4129",
-  "win": "MaxselPOS-Nube-1.37-windows.zip",
-  "winSha": "9a6ecaa922e4f296f080db7750af43a4289c09119285adda5f55b83449d4fe69"
+  "ver": "1.38",
+  "notas": "Ticket: el logo de Maxsel del pie sale mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
+  "apk": "MaxselPOS-Nube-1.38.apk",
+  "apkSha": "b5226aba3ea1e1f039e70c186291af0ae798471ebf3924b84f186fe75a7fe499",
+  "win": "MaxselPOS-Nube-1.38-windows.zip",
+  "winSha": "d9389b6badd89642767187e46db0f8dc4764f63c92289db880747fbb00b3280f"
  },
  "hotel": {
   "ver": "1.14.0",
