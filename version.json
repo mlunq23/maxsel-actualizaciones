@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.44",
-  "notas": "Ticket: el logo de Maxsel del pie sale mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
-  "apk": "MaxselPOS-1.44.apk",
-  "apkSha": "d45ce12a3b24492aed5c931bb48b76ecd44fd46e7f265e5923ac7581e46eb086",
-  "win": "MaxselPOS-1.44-windows.zip",
-  "winSha": "e79d0c7b808b279e453027ba037813f3c7e2b5a208c413009c588bf0cb59482d"
+  "ver": "1.45",
+  "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
+  "apk": "MaxselPOS-1.45.apk",
+  "apkSha": "de2d2332feaddd72ccc615f528a86945cb99afe4b06df59946036ec1b9125746",
+  "win": "MaxselPOS-1.45-windows.zip",
+  "winSha": "64645c18ac3f81e3dcf97c2e8960e3f96b8964a4ac1154444e3e4552bd28a20a"
  },
  "nube": {
-  "ver": "1.38",
-  "notas": "Ticket: el logo de Maxsel del pie sale mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
-  "apk": "MaxselPOS-Nube-1.38.apk",
-  "apkSha": "b5226aba3ea1e1f039e70c186291af0ae798471ebf3924b84f186fe75a7fe499",
-  "win": "MaxselPOS-Nube-1.38-windows.zip",
-  "winSha": "d9389b6badd89642767187e46db0f8dc4764f63c92289db880747fbb00b3280f"
+  "ver": "1.39",
+  "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
+  "apk": "MaxselPOS-Nube-1.39.apk",
+  "apkSha": "8b1f50ab6fa5b3becad3f90a8765be5f9f895bf739649259d88cf86a1361c401",
+  "win": "MaxselPOS-Nube-1.39-windows.zip",
+  "winSha": "9b882b5912d5f167176368a9b5baf79a037357cf6d15c293bb4e9d4e77defc80"
  },
  "hotel": {
   "ver": "1.14.0",
