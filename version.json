@@ -8,10 +8,10 @@
   "winSha": "51f9af72e6b75488b15f174ab672fc1ae42e1c05bb1fa076e0ef58e7b8da1541"
  },
  "nube": {
-  "ver": "1.36",
-  "notas": "Nuevo: nombre del cliente en venta rapida / para llevar (sin registrarlo); sale en las comandas de cocina y en el recibo\nMeseros: aviso de mesa ocupada desde el principio\nPre-cuenta impresa: para agregar mas pide PIN de gerente\nComandas con letra Grande (Impresoras)",
-  "apk": "MaxselPOS-Nube-1.36.apk",
-  "apkSha": "a575eea883eedbb88aea9c14dbd5ac920cae2f8a9a41e017464e6953e2d9773c"
+  "ver": "1.37",
+  "notas": "Nuevo: Ajustes > Respaldo > Reiniciar ventas (empezar de cero sin perder productos ni empleados)\nComandas: el separador ahora dice PLATO\nNombre del cliente en venta rapida / para llevar; sale en las comandas\nPre-cuenta impresa: para agregar mas pide PIN de gerente",
+  "apk": "MaxselPOS-Nube-1.37.apk",
+  "apkSha": "da5f8109e30334ab2b990bd4663c46418b7ae95028e80c759fcfd5ea71fb4129"
  },
  "hotel": {
   "ver": "1.14.0",
