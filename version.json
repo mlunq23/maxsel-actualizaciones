@@ -1,17 +1,19 @@
 {
  "pos": {
-  "ver": "1.42",
-  "notas": "Nuevo: importar el catalogo de Loyverse (productos, categorias, precios y modificadores)\nConectar con Mercado Pago (solo inicias sesion y tocas Permitir)",
-  "apk": "MaxselPOS-1.42.apk",
-  "apkSha": "c06dc1d493e42fe5895c9c2347874cdbe4bf507efe44e031a8b1d61a3d0613c0",
-  "win": "MaxselPOS-1.42-windows.zip",
-  "winSha": "51f9af72e6b75488b15f174ab672fc1ae42e1c05bb1fa076e0ef58e7b8da1541"
+  "ver": "1.43",
+  "notas": "Meseros: pre-cuenta con su propia impresora y formato distinto al de caja\nMesa ocupada: avisa desde el principio\nPre-cuenta impresa: para agregar mas pide PIN de gerente\nComandas con letra Grande y separador PLATO\nNombre del cliente en venta rapida / para llevar\nAjustes > Respaldo > Reiniciar ventas",
+  "apk": "MaxselPOS-1.43.apk",
+  "apkSha": "0983bb4ee7bf054b8bbe59596239b3335f390649f53f5d21755a66278048f840",
+  "win": "MaxselPOS-1.43-windows.zip",
+  "winSha": "429183dd36f5c03f361187718ddbc845900d6fdbfe58fe187e2e3fd36e289fae"
  },
  "nube": {
   "ver": "1.37",
-  "notas": "Nuevo: Ajustes > Respaldo > Reiniciar ventas (empezar de cero sin perder productos ni empleados)\nComandas: el separador ahora dice PLATO\nNombre del cliente en venta rapida / para llevar; sale en las comandas\nPre-cuenta impresa: para agregar mas pide PIN de gerente",
+  "notas": "Meseros: pre-cuenta con su propia impresora y formato distinto al de caja\nMesa ocupada: avisa desde el principio\nPre-cuenta impresa: para agregar mas pide PIN de gerente\nComandas con letra Grande y separador PLATO\nNombre del cliente en venta rapida / para llevar\nAjustes > Respaldo > Reiniciar ventas",
   "apk": "MaxselPOS-Nube-1.37.apk",
-  "apkSha": "da5f8109e30334ab2b990bd4663c46418b7ae95028e80c759fcfd5ea71fb4129"
+  "apkSha": "da5f8109e30334ab2b990bd4663c46418b7ae95028e80c759fcfd5ea71fb4129",
+  "win": "MaxselPOS-Nube-1.37-windows.zip",
+  "winSha": "9a6ecaa922e4f296f080db7750af43a4289c09119285adda5f55b83449d4fe69"
  },
  "hotel": {
   "ver": "1.14.0",
