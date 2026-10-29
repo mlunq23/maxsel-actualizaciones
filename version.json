@@ -8,10 +8,10 @@
   "winSha": "51f9af72e6b75488b15f174ab672fc1ae42e1c05bb1fa076e0ef58e7b8da1541"
  },
  "nube": {
-  "ver": "1.35",
-  "notas": "Meseros: si el nombre de la mesa ya existe avisa desde el principio\nPre-cuenta impresa: la mesa cambia de estado y para agregar mas pide PIN de gerente\nComandas de cocina con letra Grande (Impresoras)\nPre-cuenta de meseros con su propia impresora y formato distinto al de caja",
-  "apk": "MaxselPOS-Nube-1.35.apk",
-  "apkSha": "65c7c9fb6eab41344c25cfe552294dc6edd6a1b5c8eb5f0c32ff4ebc13620fef"
+  "ver": "1.36",
+  "notas": "Nuevo: nombre del cliente en venta rapida / para llevar (sin registrarlo); sale en las comandas de cocina y en el recibo\nMeseros: aviso de mesa ocupada desde el principio\nPre-cuenta impresa: para agregar mas pide PIN de gerente\nComandas con letra Grande (Impresoras)",
+  "apk": "MaxselPOS-Nube-1.36.apk",
+  "apkSha": "a575eea883eedbb88aea9c14dbd5ac920cae2f8a9a41e017464e6953e2d9773c"
  },
  "hotel": {
   "ver": "1.14.0",
