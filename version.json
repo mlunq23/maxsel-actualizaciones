@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.45",
-  "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
-  "apk": "MaxselPOS-1.45.apk",
-  "apkSha": "de2d2332feaddd72ccc615f528a86945cb99afe4b06df59946036ec1b9125746",
-  "win": "MaxselPOS-1.45-windows.zip",
-  "winSha": "64645c18ac3f81e3dcf97c2e8960e3f96b8964a4ac1154444e3e4552bd28a20a"
+  "ver": "1.46",
+  "notas": "Inicio de sesion: al escribir el 4o digito del PIN entra al instante (antes se trababa un momento)\nLas fotos de los productos cargan mas ligero\nTicket con el logo de punto de venta (tenedor y cuchillo)",
+  "apk": "MaxselPOS-1.46.apk",
+  "apkSha": "3c86b4f4b372a03e2de24b235fda2815dda53bc7144a33c4be9077cf8f01c8d0",
+  "win": "MaxselPOS-1.46-windows.zip",
+  "winSha": "1fd2e55584c28830df9a43a9825d3828982dbf9a5387c1c7e019ffc08d8bb219"
  },
  "nube": {
-  "ver": "1.39",
-  "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
-  "apk": "MaxselPOS-Nube-1.39.apk",
-  "apkSha": "8b1f50ab6fa5b3becad3f90a8765be5f9f895bf739649259d88cf86a1361c401",
-  "win": "MaxselPOS-Nube-1.39-windows.zip",
-  "winSha": "9b882b5912d5f167176368a9b5baf79a037357cf6d15c293bb4e9d4e77defc80"
+  "ver": "1.40",
+  "notas": "Inicio de sesion: al escribir el 4o digito del PIN entra al instante (antes se trababa un momento)\nLas fotos de los productos cargan mas ligero\nTicket con el logo de punto de venta (tenedor y cuchillo)",
+  "apk": "MaxselPOS-Nube-1.40.apk",
+  "apkSha": "1425914b38b260649024361bdd04e47815099985a22ff1be69c94289d27e2765",
+  "win": "MaxselPOS-Nube-1.40-windows.zip",
+  "winSha": "e709376ac43b72881882721ab60928712e1920a547dab7ae71c8361c71cf8fe3"
  },
  "hotel": {
   "ver": "1.17.0",
