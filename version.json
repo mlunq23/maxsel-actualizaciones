@@ -1,54 +1,54 @@
 {
- "pos": {
-  "ver": "1.45",
-  "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
-  "apk": "MaxselPOS-1.45.apk",
-  "apkSha": "de2d2332feaddd72ccc615f528a86945cb99afe4b06df59946036ec1b9125746",
-  "win": "MaxselPOS-1.45-windows.zip",
-  "winSha": "64645c18ac3f81e3dcf97c2e8960e3f96b8964a4ac1154444e3e4552bd28a20a"
- },
- "nube": {
-  "ver": "1.39",
-  "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
-  "apk": "MaxselPOS-Nube-1.39.apk",
-  "apkSha": "8b1f50ab6fa5b3becad3f90a8765be5f9f895bf739649259d88cf86a1361c401",
-  "win": "MaxselPOS-Nube-1.39-windows.zip",
-  "winSha": "9b882b5912d5f167176368a9b5baf79a037357cf6d15c293bb4e9d4e77defc80"
- },
- "hotel": {
-  "ver": "1.14.0",
-  "notas": "Apps separadas de Mantenimiento y Limpieza para el celular (con código QR), prioridad por urgencia y a quién le toca cada trabajo, y firmas más chicas en los tickets.",
-  "win": "MaxselHotel-1.14.0-windows.zip",
-  "winSha": "48adf4d74bfda40deeedfe501c8aadeabaa56c6be2c8c8b05878810dfa42583f"
- },
- "motel": {
-  "ver": "1.1.0",
-  "notas": "Plumas de entrada y salida con Shelly, visitas (Uber, taxi, carro, a pie), dirección web de Tailscale, cambiar mi PIN y actualizar por internet.",
-  "win": "MaxselMotel-1.1.0-windows.zip",
-  "winSha": "43763480f564ac2e001b51e6ae858fe718743386e97bfd3244a65bbf52a13c0b"
- },
- "carwash": {
-  "ver": "1.6.0",
-  "notas": "Primera versión que se actualiza por internet. Horas en 12 h, logo de Maxsel fijo en el ticket.",
-  "win": "MaxselCarwash-1.6.0-windows.zip",
-  "winSha": "bdd745f98bc4c3f670569bfb9390f51483c964438a40969f06606705ace7a1a5"
- },
- "parking": {
-  "ver": "2.6.0",
-  "notas": "Primera versión que se actualiza por internet. Impresora por marca, logo de Maxsel fijo y cobro con la hora mostrada.",
-  "win": "MaxselParking-2.6.0-windows.zip",
-  "winSha": "4a448fdafaa5ce5ae21505e09be272a840fb843588ecd17268fc68687ad659cd"
- },
- "gym": {
-  "ver": "1.10.0",
-  "notas": "Actualizar por internet desde Configuración, entrada manual (F9), asistencia de empleados con checador y gastos con firmas, como en Maxsel Hotel.",
-  "win": "MaxselGimnasios-1.10.0-windows.zip",
-  "winSha": "c681126652ec069c78f3aeee21bdfdef1cec7d279c4f583f6907c080f0844f94"
- },
- "comedor": {
-  "ver": "4.8.0",
-  "notas": "Primera versión que se actualiza por internet desde Administración → Configuración.",
-  "win": "MaxselComedores-4.8.0-windows.zip",
-  "winSha": "a7c07254cc7437e1ef133e5a104635044553691821a3488a4c18d2e0568a2da6"
- }
+  "pos": {
+    "ver": "1.45",
+    "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
+    "apk": "MaxselPOS-1.45.apk",
+    "apkSha": "de2d2332feaddd72ccc615f528a86945cb99afe4b06df59946036ec1b9125746",
+    "win": "MaxselPOS-1.45-windows.zip",
+    "winSha": "64645c18ac3f81e3dcf97c2e8960e3f96b8964a4ac1154444e3e4552bd28a20a"
+  },
+  "nube": {
+    "ver": "1.39",
+    "notas": "Ticket: el logo de Maxsel del pie es el de punto de venta (tenedor y cuchillo), mas nitido y ya no se encima con el texto\nIncluye todo lo de la version anterior: pre-cuenta de meseros con su impresora, PIN de gerente, comandas con letra Grande y PLATO, nombre del cliente en venta rapida, Reiniciar ventas",
+    "apk": "MaxselPOS-Nube-1.39.apk",
+    "apkSha": "8b1f50ab6fa5b3becad3f90a8765be5f9f895bf739649259d88cf86a1361c401",
+    "win": "MaxselPOS-Nube-1.39-windows.zip",
+    "winSha": "9b882b5912d5f167176368a9b5baf79a037357cf6d15c293bb4e9d4e77defc80"
+  },
+  "hotel": {
+    "ver": "1.15.0",
+    "notas": "Al registrar un huésped, el administrador puede poner la fecha y hora de ingreso (para huéspedes que ya estaban desde antes).",
+    "win": "MaxselHotel-1.15.0-windows.zip",
+    "winSha": "b9bbb1c6f3c8ca7dfde7506ba550d5874d4960ea6013d3d250e83cc1279f4425"
+  },
+  "motel": {
+    "ver": "1.1.0",
+    "notas": "Plumas de entrada y salida con Shelly, visitas (Uber, taxi, carro, a pie), dirección web de Tailscale, cambiar mi PIN y actualizar por internet.",
+    "win": "MaxselMotel-1.1.0-windows.zip",
+    "winSha": "43763480f564ac2e001b51e6ae858fe718743386e97bfd3244a65bbf52a13c0b"
+  },
+  "carwash": {
+    "ver": "1.6.0",
+    "notas": "Primera versión que se actualiza por internet. Horas en 12 h, logo de Maxsel fijo en el ticket.",
+    "win": "MaxselCarwash-1.6.0-windows.zip",
+    "winSha": "bdd745f98bc4c3f670569bfb9390f51483c964438a40969f06606705ace7a1a5"
+  },
+  "parking": {
+    "ver": "2.6.0",
+    "notas": "Primera versión que se actualiza por internet. Impresora por marca, logo de Maxsel fijo y cobro con la hora mostrada.",
+    "win": "MaxselParking-2.6.0-windows.zip",
+    "winSha": "4a448fdafaa5ce5ae21505e09be272a840fb843588ecd17268fc68687ad659cd"
+  },
+  "gym": {
+    "ver": "1.10.0",
+    "notas": "Actualizar por internet desde Configuración, entrada manual (F9), asistencia de empleados con checador y gastos con firmas, como en Maxsel Hotel.",
+    "win": "MaxselGimnasios-1.10.0-windows.zip",
+    "winSha": "c681126652ec069c78f3aeee21bdfdef1cec7d279c4f583f6907c080f0844f94"
+  },
+  "comedor": {
+    "ver": "4.8.0",
+    "notas": "Primera versión que se actualiza por internet desde Administración → Configuración.",
+    "win": "MaxselComedores-4.8.0-windows.zip",
+    "winSha": "a7c07254cc7437e1ef133e5a104635044553691821a3488a4c18d2e0568a2da6"
+  }
 }
