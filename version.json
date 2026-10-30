@@ -16,10 +16,10 @@
   "winSha": "9b882b5912d5f167176368a9b5baf79a037357cf6d15c293bb4e9d4e77defc80"
  },
  "hotel": {
-  "ver": "1.16.0",
-  "notas": "Reiniciar ventas (empezar de cero sin perder la configuración), descuento que se repite cada vez que el huésped renueva, y corregido: al extender una renta con descuento ya no se pierde el descuento del primer periodo.",
-  "win": "MaxselHotel-1.16.0-windows.zip",
-  "winSha": "78c0387b9210c636e75fbb8a0096266c69475e33bf30e70284842cb533ee91e5"
+  "ver": "1.17.0",
+  "notas": "Al registrar un huésped que ya estaba desde antes, se capturan los pagos que hizo (día, cantidad y forma de pago). Incluye reiniciar ventas y el descuento que se repite al renovar.",
+  "win": "MaxselHotel-1.17.0-windows.zip",
+  "winSha": "801512870e90add7df7385f39cd68ab5d9356e03375999ff78eb1b3ed70af0fa"
  },
  "motel": {
   "ver": "1.1.0",
