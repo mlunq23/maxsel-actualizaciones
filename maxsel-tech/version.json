@@ -1,12 +1,17 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.4.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.5.exe",
   "fecha": "2026-10-31",
-  "firma": "29a9bc2f9ea50aa02e8f9abec2f7c11561705874e3f10fb7e9699928e30926e2a3ffcf1719150e6cb2f18816813db85379de0097607039e0e50b0b88d08b6400",
+  "firma": "680385c663acb6c0a65b79e009687e0797ece080369b4cbd44dac4ce466f6c3424138aad29a1b92e65d23d8c19d51482f21e77558db60154c7fc67b131e27108",
   "notas": [
-    "Configuración rápida de impresoras de etiquetas: Brother QL-800 (DK-1201) y Evotec EV-3004 (EV-3011C)",
-    "Corrección: cambiar de pantalla mientras carga la venta ya no marca error"
+    "Categorías editables: crea, cambia de nombre o borra tipos de equipo y categorías de productos",
+    "Inventario de equipos: escanea cada equipo y ve cuáles faltan y cuáles sobran",
+    "Un solo turno y un solo corte para tecnología y tienda (se puede separar en Configuración)",
+    "Al abrir turno pregunta el tipo de cambio del dólar del día",
+    "El ticket se imprime solo al cobrar (detecta la impresora de tickets)",
+    "Reportes por venta de equipos de cómputo, tecnología o tienda",
+    "Corrección: al agregar un cliente nuevo ya no se cierra la recepción del taller"
   ],
-  "sha256": "ef79dd5d7eb435cde81753d85016a0757aa9566be559fc33de85ab2a202508ce",
-  "tamano": 13343232,
-  "version": "2.4"
+  "sha256": "48d2b8eee0289eb8f81897da460ac78de6b2ee057ce34bfeac1a1879fedbef07",
+  "tamano": 13412352,
+  "version": "2.5"
 }
