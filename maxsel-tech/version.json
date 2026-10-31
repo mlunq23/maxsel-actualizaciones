@@ -1,12 +1,14 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.0.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.1.exe",
   "fecha": "2026-10-31",
-  "firma": "566ab7ff922344a44c31ac8a01637b6d4e6394f341976ee6f52a6759b5391e88272f3d41e21ed1f8862775f6f772747b963dbcef3338d2a9ea91bb159ae9410c",
+  "firma": "8fb35195cfb834a1c88915b6a952062500028a64aa04ceaf081c3aaf769ca21acc2996eeba189764da61d54a03c87be65df1deedf13b5d0ee55fb4a4fd6a5301",
   "notas": [
-    "Corrección: las actualizaciones se instalan aunque la ventana siga abierta desde la actualización anterior",
-    "Después de actualizar, la ventana se vuelve a abrir sola con la versión nueva"
+    "Reacondicionamiento: bodega, técnico (checklist, trabajos, piezas, pendientes) y publicador (fotos, costos, precio, ubicación)",
+    "Taller: el técnico marca reparación, formateo o instalación de software",
+    "Equipos: semáforo de días a la venta (verde, amarillo, rojo)",
+    "Historial por número de serie y reporte de trabajos por técnico"
   ],
-  "sha256": "ca03512d6bfda1b6c5dbea85b40f7a75eee0052b78c61877e26f20ff814a5e94",
-  "tamano": 13521408,
-  "version": "3.0"
+  "sha256": "d00ca6f48cd658f6fba083697ea0c777c4e407715fe810b36ec11aaf623eec7c",
+  "tamano": 13644800,
+  "version": "3.1"
 }
