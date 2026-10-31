@@ -1,12 +1,13 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.6.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.7.exe",
   "fecha": "2026-10-31",
-  "firma": "a2170987032da8e110f8602d3cf46d5bed5223e3c45c181dbaf38b94256b933e1cf02ff68e0c9dcd87213d20c91d562269fb6dc5761a02aea6ae79f38a2f9706",
+  "firma": "5f8068ad58616598843b21f4fe27d252f5c9a905dc264a7b954eecd7023732ad1c25e56b46c7c63de9277c0f54a84a6820297d1b92aca2c65c193fb05a318903",
   "notas": [
-    "Equipos: nuevos campos de tarjeta gráfica y teclado (con o sin teclado numérico)",
-    "La tarjeta gráfica sale en la etiqueta y en la ficha, y se puede buscar"
+    "Grados de equipo editables: agrega los tuyos (Open Box, Nuevo…) desde el formulario o en Categorías",
+    "Corrección: al escanear la etiqueta en la venta ya se carga el producto o equipo (antes mandaba a buscar)",
+    "Los productos de tienda sin código reciben su código TD- para la etiqueta"
   ],
-  "sha256": "17fe190074ef627b79aa35589d5912d803dc43f01b213f80c63a55cebc1f1030",
-  "tamano": 13415424,
-  "version": "2.6"
+  "sha256": "b86f2076994d7811c440654a27db19479d629d0cf2703f8ec18b719a02c18647",
+  "tamano": 13423616,
+  "version": "2.7"
 }
