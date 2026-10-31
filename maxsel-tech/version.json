@@ -1,17 +1,12 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.5.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.6.exe",
   "fecha": "2026-10-31",
-  "firma": "680385c663acb6c0a65b79e009687e0797ece080369b4cbd44dac4ce466f6c3424138aad29a1b92e65d23d8c19d51482f21e77558db60154c7fc67b131e27108",
+  "firma": "a2170987032da8e110f8602d3cf46d5bed5223e3c45c181dbaf38b94256b933e1cf02ff68e0c9dcd87213d20c91d562269fb6dc5761a02aea6ae79f38a2f9706",
   "notas": [
-    "Categorías editables: crea, cambia de nombre o borra tipos de equipo y categorías de productos",
-    "Inventario de equipos: escanea cada equipo y ve cuáles faltan y cuáles sobran",
-    "Un solo turno y un solo corte para tecnología y tienda (se puede separar en Configuración)",
-    "Al abrir turno pregunta el tipo de cambio del dólar del día",
-    "El ticket se imprime solo al cobrar (detecta la impresora de tickets)",
-    "Reportes por venta de equipos de cómputo, tecnología o tienda",
-    "Corrección: al agregar un cliente nuevo ya no se cierra la recepción del taller"
+    "Equipos: nuevos campos de tarjeta gráfica y teclado (con o sin teclado numérico)",
+    "La tarjeta gráfica sale en la etiqueta y en la ficha, y se puede buscar"
   ],
-  "sha256": "48d2b8eee0289eb8f81897da460ac78de6b2ee057ce34bfeac1a1879fedbef07",
-  "tamano": 13412352,
-  "version": "2.5"
+  "sha256": "17fe190074ef627b79aa35589d5912d803dc43f01b213f80c63a55cebc1f1030",
+  "tamano": 13415424,
+  "version": "2.6"
 }
