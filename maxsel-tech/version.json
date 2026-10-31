@@ -1,15 +1,12 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.8.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.9.exe",
   "fecha": "2026-10-31",
-  "firma": "18f2d63f19b991c4dc45b86bfc2ac83c742621680b49a3177bf1ae0427767164d15ca3c01eceacb58303ff2d2b8456cd81515b56678ba42e3014b1b7ff9cf804",
+  "firma": "8395a6dd686889fc53da1832559f131a11a0099f23eb2ff6f716e996172b51e96ff6865c3d941b73c2858ae24942fc782a8c656c0e4f145dca58e87c2a00090a",
   "notas": [
-    "Merma (scrap) de equipos con motivo, autorización y reporte de pérdidas",
-    "Venta Tecnología: el cursor siempre espera el código de barras",
-    "Nueva forma de pago: Tarjeta (factura), con datos para facturar",
-    "Clientes: llamadas de mantenimiento con fecha programada, historial y WhatsApp",
-    "Corrección: el código escaneado ya no se queda como búsqueda"
+    "Comisiones a vendedores: un % sobre el total que vende cada uno",
+    "Al cobrar se elige el vendedor; reporte de comisiones en Reportes → Comisiones"
   ],
-  "sha256": "dd95dceb8a4dd61d594b099258d673de2334f64181b28ab48a16db69d0f6e33f",
-  "tamano": 13488640,
-  "version": "2.8"
+  "sha256": "0cb7d1e848122db0761694ad352b56b3311b0574720e872bc9585e339401cc27",
+  "tamano": 13512704,
+  "version": "2.9"
 }
