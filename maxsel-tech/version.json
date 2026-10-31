@@ -1,14 +1,14 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.1.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.2.exe",
   "fecha": "2026-10-31",
-  "firma": "8fb35195cfb834a1c88915b6a952062500028a64aa04ceaf081c3aaf769ca21acc2996eeba189764da61d54a03c87be65df1deedf13b5d0ee55fb4a4fd6a5301",
+  "firma": "2f08055182532cb0a40765b0baaca20e37d427de06cd473850062759a97f7192dbfdd96d514f4f63f5a46af00f48cd2c8930c0e9bab25b7502f98448dc71a405",
   "notas": [
-    "Reacondicionamiento: bodega, técnico (checklist, trabajos, piezas, pendientes) y publicador (fotos, costos, precio, ubicación)",
-    "Taller: el técnico marca reparación, formateo o instalación de software",
-    "Equipos: semáforo de días a la venta (verde, amarillo, rojo)",
-    "Historial por número de serie y reporte de trabajos por técnico"
+    "Equipos en descuento autorizado por un administrador",
+    "Canal de venta (tienda, Mercado Libre, Facebook) y sección de vendidos por Mercado Libre",
+    "Venta a domicilio: datos del cliente, repartidor, cobro al regresar y comisión del repartidor",
+    "Ventas por vendedor: filtro en reportes, Mis ventas y vendedor responsable del equipo"
   ],
-  "sha256": "d00ca6f48cd658f6fba083697ea0c777c4e407715fe810b36ec11aaf623eec7c",
-  "tamano": 13644800,
-  "version": "3.1"
+  "sha256": "4668b2ad50f594a8e4b9a9f9aad410141982e5989fe5d083de141341cd71cd97",
+  "tamano": 13744640,
+  "version": "3.2"
 }
