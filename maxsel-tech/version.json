@@ -1,0 +1,12 @@
+{
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.4.exe",
+  "fecha": "2026-10-31",
+  "firma": "29a9bc2f9ea50aa02e8f9abec2f7c11561705874e3f10fb7e9699928e30926e2a3ffcf1719150e6cb2f18816813db85379de0097607039e0e50b0b88d08b6400",
+  "notas": [
+    "Configuración rápida de impresoras de etiquetas: Brother QL-800 (DK-1201) y Evotec EV-3004 (EV-3011C)",
+    "Corrección: cambiar de pantalla mientras carga la venta ya no marca error"
+  ],
+  "sha256": "ef79dd5d7eb435cde81753d85016a0757aa9566be559fc33de85ab2a202508ce",
+  "tamano": 13343232,
+  "version": "2.4"
+}
