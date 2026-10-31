@@ -1,14 +1,14 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.2.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.3.exe",
   "fecha": "2026-10-31",
-  "firma": "2f08055182532cb0a40765b0baaca20e37d427de06cd473850062759a97f7192dbfdd96d514f4f63f5a46af00f48cd2c8930c0e9bab25b7502f98448dc71a405",
+  "firma": "db5bd582ce4c61d0e3692ddb1044ea7a2a32efdb6cb7f3f3267a42d3f60f131b133a087a00d4b40878654248c762cb3ef7b42fc8d4ef26f8d4298cce067a0a04",
   "notas": [
-    "Equipos en descuento autorizado por un administrador",
-    "Canal de venta (tienda, Mercado Libre, Facebook) y sección de vendidos por Mercado Libre",
-    "Venta a domicilio: datos del cliente, repartidor, cobro al regresar y comisión del repartidor",
-    "Ventas por vendedor: filtro en reportes, Mis ventas y vendedor responsable del equipo"
+    "Catálogo en línea: los equipos disponibles se publican solos en Shopify y se ocultan al venderse; exportación CSV",
+    "El técnico manda a merma los equipos que no funcionan (queda registrado quién)",
+    "Área Delete con anaqueles para los equipos dados de baja",
+    "Merma de productos del inventario"
   ],
-  "sha256": "4668b2ad50f594a8e4b9a9f9aad410141982e5989fe5d083de141341cd71cd97",
-  "tamano": 13744640,
-  "version": "3.2"
+  "sha256": "cb679b6bef552c1edda1a16995c4d81f9d26ee4ffa4143c01199776354d45de5",
+  "tamano": 13836800,
+  "version": "3.3"
 }
