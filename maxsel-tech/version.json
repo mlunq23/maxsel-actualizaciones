@@ -1,12 +1,12 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.9.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.0.exe",
   "fecha": "2026-10-31",
-  "firma": "8395a6dd686889fc53da1832559f131a11a0099f23eb2ff6f716e996172b51e96ff6865c3d941b73c2858ae24942fc782a8c656c0e4f145dca58e87c2a00090a",
+  "firma": "566ab7ff922344a44c31ac8a01637b6d4e6394f341976ee6f52a6759b5391e88272f3d41e21ed1f8862775f6f772747b963dbcef3338d2a9ea91bb159ae9410c",
   "notas": [
-    "Comisiones a vendedores: un % sobre el total que vende cada uno",
-    "Al cobrar se elige el vendedor; reporte de comisiones en Reportes → Comisiones"
+    "Corrección: las actualizaciones se instalan aunque la ventana siga abierta desde la actualización anterior",
+    "Después de actualizar, la ventana se vuelve a abrir sola con la versión nueva"
   ],
-  "sha256": "0cb7d1e848122db0761694ad352b56b3311b0574720e872bc9585e339401cc27",
-  "tamano": 13512704,
-  "version": "2.9"
+  "sha256": "ca03512d6bfda1b6c5dbea85b40f7a75eee0052b78c61877e26f20ff814a5e94",
+  "tamano": 13521408,
+  "version": "3.0"
 }
