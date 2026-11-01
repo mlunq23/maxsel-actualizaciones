@@ -1,12 +1,12 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.8.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.9.exe",
   "fecha": "2026-10-31",
-  "firma": "e9a7bceadf82cb6d05af95e3ad4256afee4c11cb3fd68b5487a370acc8b11932924cf6d87bd74782c3363aaa549be800d1a5a37e39ccbdc3e0bdab5e1d46c308",
+  "firma": "f50af3df20818752a30f6347ffdda5eda2686b5313be85182c3ef62699d9d03f43a7c9cd8c0edce54ae19d233c70f386b6ca5c2646d087b4819be45a8ac90903",
   "notas": [
-    "Monitoreo: el código QR ahora abre directo en el teléfono (usa la IP de Tailscale)",
-    "Reacondicionamiento por usuario y solo el técnico manda a Delete"
+    "Monitoreo sin app: abre desde cualquier celular en la dirección .ts.net, sin instalar Tailscale",
+    "El código QR del monitoreo ahora abre directo"
   ],
-  "sha256": "078b1ccad22b864de90739116e7558631a1fdcfec7c60a440d4203666d368239",
-  "tamano": 13869056,
-  "version": "3.8"
+  "sha256": "02f829516f2f73f2dc999eac76712810540e234a5b52b2a86980880ca0cfd78f",
+  "tamano": 13891072,
+  "version": "3.9"
 }
