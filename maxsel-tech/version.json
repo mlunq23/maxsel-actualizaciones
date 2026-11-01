@@ -1,12 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.4.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.5.exe",
   "fecha": "2026-10-31",
-  "firma": "390e9054afffe7b20b8d3b4008d52c91844c4d51a0c21e9fc758d04ecc717219270433f664306c90bb783ba4d8c3799eb0913a5422195d44c8963cccee18170e",
+  "firma": "f5c3278bda2d2c674bb63d7ac538f247be66f1769a1022b3bfde27e1c6fa1bed72eeba6c4dfebc22fa35dede01bb2d385b3edea9a61b9f230376054ec4a77407",
   "notas": [
-    "Taller: campo para escanear la etiqueta del equipo (OT-…) y buscar por serie, cliente, teléfono o folio",
-    "Escanear el número de serie del equipo de un cliente abre su orden de taller"
+    "Recuperar contraseña desde la pantalla de entrada: con autorización de un administrador o con código de Maxsel"
   ],
-  "sha256": "b9897b934eb4e43a19e599f37034871a8d3624d0cdfea8ee3c32dee62182cd16",
-  "tamano": 13842944,
-  "version": "3.4"
+  "sha256": "81a18115464f6fbb36c850a49aefd2319c095521583e246020ea35b064907828",
+  "tamano": 13862912,
+  "version": "3.5"
 }
