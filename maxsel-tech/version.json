@@ -1,12 +1,13 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.9.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-4.0.exe",
   "fecha": "2026-10-31",
-  "firma": "f50af3df20818752a30f6347ffdda5eda2686b5313be85182c3ef62699d9d03f43a7c9cd8c0edce54ae19d233c70f386b6ca5c2646d087b4819be45a8ac90903",
+  "firma": "e42ef01019aed29e09f5256ed5e891aa32a9727ed352fc7ed986f97ec2fb42a23f2c6a53e6086908bae11f5f24d7a5abfd9535b89953f7204813a030deb3800f",
   "notas": [
-    "Monitoreo sin app: abre desde cualquier celular en la dirección .ts.net, sin instalar Tailscale",
-    "El código QR del monitoreo ahora abre directo"
+    "Notas de venta: el vendedor anota y la caja cobra escaneando la laptop",
+    "Etiqueta de garantía al vender, pago por Mercado Libre y cargo de envío",
+    "Cancelar solo con clave de administrador y reportes nuevos en el celular"
   ],
-  "sha256": "02f829516f2f73f2dc999eac76712810540e234a5b52b2a86980880ca0cfd78f",
-  "tamano": 13891072,
-  "version": "3.9"
+  "sha256": "bbdf96856aa860acf0d5adc8040fe57503f260c3bfce033343ca8d04debc96dc",
+  "tamano": 14010880,
+  "version": "4.0"
 }
