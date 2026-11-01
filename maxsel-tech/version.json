@@ -1,14 +1,12 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.3.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.4.exe",
   "fecha": "2026-10-31",
-  "firma": "db5bd582ce4c61d0e3692ddb1044ea7a2a32efdb6cb7f3f3267a42d3f60f131b133a087a00d4b40878654248c762cb3ef7b42fc8d4ef26f8d4298cce067a0a04",
+  "firma": "390e9054afffe7b20b8d3b4008d52c91844c4d51a0c21e9fc758d04ecc717219270433f664306c90bb783ba4d8c3799eb0913a5422195d44c8963cccee18170e",
   "notas": [
-    "Catálogo en línea: los equipos disponibles se publican solos en Shopify y se ocultan al venderse; exportación CSV",
-    "El técnico manda a merma los equipos que no funcionan (queda registrado quién)",
-    "Área Delete con anaqueles para los equipos dados de baja",
-    "Merma de productos del inventario"
+    "Taller: campo para escanear la etiqueta del equipo (OT-…) y buscar por serie, cliente, teléfono o folio",
+    "Escanear el número de serie del equipo de un cliente abre su orden de taller"
   ],
-  "sha256": "cb679b6bef552c1edda1a16995c4d81f9d26ee4ffa4143c01199776354d45de5",
-  "tamano": 13836800,
-  "version": "3.3"
+  "sha256": "b9897b934eb4e43a19e599f37034871a8d3624d0cdfea8ee3c32dee62182cd16",
+  "tamano": 13842944,
+  "version": "3.4"
 }
