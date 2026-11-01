@@ -1,13 +1,12 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.7.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.8.exe",
   "fecha": "2026-10-31",
-  "firma": "74f55730d1e89044845278eac458b3a50c67828e69eafd72a105802c0e63c623cd17a2dff50c11a0be42fff08fcb0cf2ed244bfe62d99069cba532b81eb53701",
+  "firma": "e9a7bceadf82cb6d05af95e3ad4256afee4c11cb3fd68b5487a370acc8b11932924cf6d87bd74782c3363aaa549be800d1a5a37e39ccbdc3e0bdab5e1d46c308",
   "notas": [
-    "Reacondicionamiento: cada usuario ve solo su área (bodega, técnico o publicador)",
-    "Solo el técnico puede mandar equipos al área Delete",
-    "Lector con teclado en inglés y recuperar contraseña"
+    "Monitoreo: el código QR ahora abre directo en el teléfono (usa la IP de Tailscale)",
+    "Reacondicionamiento por usuario y solo el técnico manda a Delete"
   ],
-  "sha256": "731833fe35a36121c8dd06d7ba6c2e00640dacf02fe2d472ed4c6c00a1fff5a8",
+  "sha256": "078b1ccad22b864de90739116e7558631a1fdcfec7c60a440d4203666d368239",
   "tamano": 13869056,
-  "version": "3.7"
+  "version": "3.8"
 }
