@@ -1,12 +1,13 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.6.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-3.7.exe",
   "fecha": "2026-10-31",
-  "firma": "eb5169099869a5072a6a7f7d451f994969259103dd9555405fb40a396a0f251cf9b64acebb3b858da8d03d35c0a31a00b114fb809bc8d0fc80895290b1fe130c",
+  "firma": "74f55730d1e89044845278eac458b3a50c67828e69eafd72a105802c0e63c623cd17a2dff50c11a0be42fff08fcb0cf2ed244bfe62d99069cba532b81eb53701",
   "notas": [
-    "Corrección: el lector de código con teclado en inglés (OT-000501 llegaba como ot'000501) ya se reconoce en todas las pantallas",
-    "Recuperar contraseña desde la pantalla de entrada"
+    "Reacondicionamiento: cada usuario ve solo su área (bodega, técnico o publicador)",
+    "Solo el técnico puede mandar equipos al área Delete",
+    "Lector con teclado en inglés y recuperar contraseña"
   ],
-  "sha256": "86970c515d47def1f2ad32030b33a250ff81f3ad78e2ae34ba3c7aae00244d20",
-  "tamano": 13864960,
-  "version": "3.6"
+  "sha256": "731833fe35a36121c8dd06d7ba6c2e00640dacf02fe2d472ed4c6c00a1fff5a8",
+  "tamano": 13869056,
+  "version": "3.7"
 }
