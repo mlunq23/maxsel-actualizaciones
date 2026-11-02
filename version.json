@@ -16,10 +16,10 @@
   "winSha": "067475064ebc3ac842d0408aa7850e73edc1dbe86e704835deea6f863453d1e7"
  },
  "hotel": {
-  "ver": "1.17.0",
-  "notas": "Al registrar un huésped que ya estaba desde antes, se capturan los pagos que hizo (día, cantidad y forma de pago). Incluye reiniciar ventas y el descuento que se repite al renovar.",
-  "win": "MaxselHotel-1.17.0-windows.zip",
-  "winSha": "801512870e90add7df7385f39cd68ab5d9356e03375999ff78eb1b3ed70af0fa"
+  "ver": "1.18.0",
+  "notas": "Recuperar contraseña desde la pantalla de entrada, monitoreo desde el teléfono fácil con Tailscale Funnel (solo consulta) e instalador nuevo.",
+  "win": "MaxselHotel-1.18.0-windows.zip",
+  "winSha": "e61e894a00b3e310bc040fc9f4c0e271ef85c61cfa2d9a8d324747b64ee20ca3"
  },
  "motel": {
   "ver": "1.2.0",
