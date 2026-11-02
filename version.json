@@ -22,10 +22,10 @@
   "winSha": "801512870e90add7df7385f39cd68ab5d9356e03375999ff78eb1b3ed70af0fa"
  },
  "motel": {
-  "ver": "1.1.0",
-  "notas": "Plumas de entrada y salida con Shelly, visitas (Uber, taxi, carro, a pie), dirección web de Tailscale, cambiar mi PIN y actualizar por internet.",
-  "win": "MaxselMotel-1.1.0-windows.zip",
-  "winSha": "43763480f564ac2e001b51e6ae858fe718743386e97bfd3244a65bbf52a13c0b"
+  "ver": "1.2.0",
+  "notas": "Recuperar contraseña desde la pantalla de entrada, monitoreo en la nube solo por la dirección web de Tailscale con código QR, y mejoras de seguridad.",
+  "win": "MaxselMotel-1.2.0-windows.zip",
+  "winSha": "5f2f9330fb381fbe4be0011eea7c3aa792c19587c583f15497f5453868dd1ba3"
  },
  "carwash": {
   "ver": "1.6.0",
