@@ -1,13 +1,13 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-4.1.exe",
-  "fecha": "2026-11-01",
-  "firma": "c85b441bd8f8e4b725dec301ab3cdf749e97b262a1ab4c38a3a5d916d9c5d7d3cbf305e5c35f475c43ac7cd59a0364684eb555d6989b5aa7a7474dbdd5588f00",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.7.exe",
+  "fecha": "2026-10-31",
+  "firma": "5f8068ad58616598843b21f4fe27d252f5c9a905dc264a7b954eecd7023732ad1c25e56b46c7c63de9277c0f54a84a6820297d1b92aca2c65c193fb05a318903",
   "notas": [
-    "Corregido: el botón Libre no agregaba el producto a la venta",
-    "Nuevo: cobrar el anticipo del taller desde el detalle de la orden",
-    "Los buscadores encuentran aunque se escriba sin acentos"
+    "Grados de equipo editables: agrega los tuyos (Open Box, Nuevo…) desde el formulario o en Categorías",
+    "Corrección: al escanear la etiqueta en la venta ya se carga el producto o equipo (antes mandaba a buscar)",
+    "Los productos de tienda sin código reciben su código TD- para la etiqueta"
   ],
-  "sha256": "25bf149de5b53860c98350a216bd1ca010371a991ce7bddf8cfad00f6d2967b9",
-  "tamano": 14011392,
-  "version": "4.1"
+  "sha256": "b86f2076994d7811c440654a27db19479d629d0cf2703f8ec18b719a02c18647",
+  "tamano": 13423616,
+  "version": "2.7"
 }

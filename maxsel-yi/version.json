@@ -1,0 +1,13 @@
+{
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselTech-4.1.exe",
+  "fecha": "2026-11-01",
+  "firma": "c85b441bd8f8e4b725dec301ab3cdf749e97b262a1ab4c38a3a5d916d9c5d7d3cbf305e5c35f475c43ac7cd59a0364684eb555d6989b5aa7a7474dbdd5588f00",
+  "notas": [
+    "Corregido: el botón Libre no agregaba el producto a la venta",
+    "Nuevo: cobrar el anticipo del taller desde el detalle de la orden",
+    "Los buscadores encuentran aunque se escriba sin acentos"
+  ],
+  "sha256": "25bf149de5b53860c98350a216bd1ca010371a991ce7bddf8cfad00f6d2967b9",
+  "tamano": 14011392,
+  "version": "4.1"
+}
