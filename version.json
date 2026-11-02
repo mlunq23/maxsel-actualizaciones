@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.46",
-  "notas": "Inicio de sesion: al escribir el 4o digito del PIN entra al instante (antes se trababa un momento)\nLas fotos de los productos cargan mas ligero\nTicket con el logo de punto de venta (tenedor y cuchillo)",
-  "apk": "MaxselPOS-1.46.apk",
-  "apkSha": "3c86b4f4b372a03e2de24b235fda2815dda53bc7144a33c4be9077cf8f01c8d0",
-  "win": "MaxselPOS-1.46-windows.zip",
-  "winSha": "1fd2e55584c28830df9a43a9825d3828982dbf9a5387c1c7e019ffc08d8bb219"
+  "ver": "1.47",
+  "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
+  "apk": "MaxselPOS-1.47.apk",
+  "apkSha": "4895e0792ae1b49a494addf85647a551bc22a12cec107095140b3ea451d153ec",
+  "win": "MaxselPOS-1.47-windows.zip",
+  "winSha": "a8d39f51ee66398dd7a636cb9de7410a8f650967b415e3075595e1d4bf5cd4bd"
  },
  "nube": {
-  "ver": "1.40",
-  "notas": "Inicio de sesion: al escribir el 4o digito del PIN entra al instante (antes se trababa un momento)\nLas fotos de los productos cargan mas ligero\nTicket con el logo de punto de venta (tenedor y cuchillo)",
-  "apk": "MaxselPOS-Nube-1.40.apk",
-  "apkSha": "1425914b38b260649024361bdd04e47815099985a22ff1be69c94289d27e2765",
-  "win": "MaxselPOS-Nube-1.40-windows.zip",
-  "winSha": "e709376ac43b72881882721ab60928712e1920a547dab7ae71c8361c71cf8fe3"
+  "ver": "1.41",
+  "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
+  "apk": "MaxselPOS-Nube-1.41.apk",
+  "apkSha": "31b3e8c7bd0e4a7e16c1cb869aecc9e46d5e5161ee0c769e41d7428c4d1b5b81",
+  "win": "MaxselPOS-Nube-1.41-windows.zip",
+  "winSha": "067475064ebc3ac842d0408aa7850e73edc1dbe86e704835deea6f863453d1e7"
  },
  "hotel": {
   "ver": "1.17.0",
