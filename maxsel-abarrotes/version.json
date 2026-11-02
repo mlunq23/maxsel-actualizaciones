@@ -1,20 +1,20 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "fecha": "2026-11-02",
   "notas": [
-    "Actualización por internet desde Configuración › Sistema",
-    "Licencia con vencimiento del sistema y del monitoreo remoto",
-    "Logo nítido en el instalador"
+    "Entrar con la clave de soporte de Maxsel",
+    "¿Olvidaste tu contraseña? en la pantalla de inicio",
+    "Reinicio de ventas o de todo el sistema oculto, solo con la clave de Maxsel"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.1.1.exe.gz",
-    "sha256": "8496eb7c6243d8c4b2093837f8ecf965fccb386f00a78006f1e2a906e60e71eb",
-    "tamano": 23239099
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.1.2.exe.gz",
+    "sha256": "1c589c4922a1a4db32568518bf69d7d46af3661817af2bd728580d9d50f4619b",
+    "tamano": 23240066
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.1.1.exe",
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.1.2.exe",
     "sha256": "a027eb71be0a0cc116a70d491d1cf012b6b8f1ea929c8fd75438999140bc3fc7",
     "tamano": 6688256
   },
-  "firma": "ZuqbVN5u4+y8+/4eLJVMpaAaPjCPw32IQee1t6GO2RXDKhO+lBayiUkJRAtS+Vmlog2OpwQLgWuRDjD26WJjCA=="
+  "firma": "ARq9i02Pgf5U4s1Ax2w5AtyCp+zfZSpxxK05qN5z4IICxuHnj2kzTTA9BzI+401cuDQWc7SAjkwpTQQNRtn4Ag=="
 }
