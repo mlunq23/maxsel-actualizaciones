@@ -1,0 +1,20 @@
+{
+  "version": "2.1.1",
+  "fecha": "2026-11-02",
+  "notas": [
+    "Actualización por internet desde Configuración › Sistema",
+    "Licencia con vencimiento del sistema y del monitoreo remoto",
+    "Logo nítido en el instalador"
+  ],
+  "servidor": {
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.1.1.exe.gz",
+    "sha256": "8496eb7c6243d8c4b2093837f8ecf965fccb386f00a78006f1e2a906e60e71eb",
+    "tamano": 23239099
+  },
+  "lanzador": {
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.1.1.exe",
+    "sha256": "a027eb71be0a0cc116a70d491d1cf012b6b8f1ea929c8fd75438999140bc3fc7",
+    "tamano": 6688256
+  },
+  "firma": "ZuqbVN5u4+y8+/4eLJVMpaAaPjCPw32IQee1t6GO2RXDKhO+lBayiUkJRAtS+Vmlog2OpwQLgWuRDjD26WJjCA=="
+}
