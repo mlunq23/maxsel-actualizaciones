@@ -40,10 +40,10 @@
   "winSha": "4a448fdafaa5ce5ae21505e09be272a840fb843588ecd17268fc68687ad659cd"
  },
  "gym": {
-  "ver": "1.10.0",
-  "notas": "Actualizar por internet desde Configuración, entrada manual (F9), asistencia de empleados con checador y gastos con firmas, como en Maxsel Hotel.",
-  "win": "MaxselGimnasios-1.10.0-windows.zip",
-  "winSha": "c681126652ec069c78f3aeee21bdfdef1cec7d279c4f583f6907c080f0844f94"
+  "ver": "1.11.0",
+  "notas": "Recuperar contraseña desde la pantalla de entrar, reinicio de ventas solo Maxsel (botón oculto) y ventas en vivo por Tailscale Funnel si el gimnasio tiene Tailscale (si no, sigue con la nube).",
+  "win": "MaxselGimnasios-1.11.0-windows.zip",
+  "winSha": "0d50df4e62af3cbf2c83d772034a15c3bdcc172787312fc484743b97148fa5f6"
  },
  "comedor": {
   "ver": "4.8.0",
