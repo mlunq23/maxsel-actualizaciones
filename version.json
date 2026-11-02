@@ -1,58 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "pos": {
-    "ver": "1.47",
-    "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
-    "apk": "MaxselPOS-1.47.apk",
-    "apkSha": "4895e0792ae1b49a494addf85647a551bc22a12cec107095140b3ea451d153ec",
-    "win": "MaxselPOS-1.47-windows.zip",
-    "winSha": "a8d39f51ee66398dd7a636cb9de7410a8f650967b415e3075595e1d4bf5cd4bd"
-  },
-  "nube": {
-    "ver": "1.41",
-    "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
-    "apk": "MaxselPOS-Nube-1.41.apk",
-    "apkSha": "31b3e8c7bd0e4a7e16c1cb869aecc9e46d5e5161ee0c769e41d7428c4d1b5b81",
-    "win": "MaxselPOS-Nube-1.41-windows.zip",
-    "winSha": "067475064ebc3ac842d0408aa7850e73edc1dbe86e704835deea6f863453d1e7"
-  },
-  "hotel": {
-    "ver": "1.18.0",
-    "notas": "Recuperar contraseña desde la pantalla de entrada, monitoreo desde el teléfono fácil con Tailscale Funnel (solo consulta) e instalador nuevo.",
-    "win": "MaxselHotel-1.18.0-windows.zip",
-    "winSha": "e61e894a00b3e310bc040fc9f4c0e271ef85c61cfa2d9a8d324747b64ee20ca3"
-  },
-  "motel": {
-    "ver": "1.2.0",
-    "notas": "Recuperar contraseña desde la pantalla de entrada, monitoreo en la nube solo por la dirección web de Tailscale con código QR, y mejoras de seguridad.",
-    "win": "MaxselMotel-1.2.0-windows.zip",
-    "winSha": "5f2f9330fb381fbe4be0011eea7c3aa792c19587c583f15497f5453868dd1ba3"
-  },
-  "carwash": {
-    "ver": "1.6.0",
-    "notas": "Primera versión que se actualiza por internet. Horas en 12 h, logo de Maxsel fijo en el ticket.",
-    "win": "MaxselCarwash-1.6.0-windows.zip",
-    "winSha": "bdd745f98bc4c3f670569bfb9390f51483c964438a40969f06606705ace7a1a5"
-  },
-  "parking": {
-    "ver": "2.6.0",
-    "notas": "Primera versión que se actualiza por internet. Impresora por marca, logo de Maxsel fijo y cobro con la hora mostrada.",
-    "win": "MaxselParking-2.6.0-windows.zip",
-    "winSha": "4a448fdafaa5ce5ae21505e09be272a840fb843588ecd17268fc68687ad659cd"
-  },
-  "gym": {
-    "ver": "1.11.0",
-    "notas": "Recuperar contraseña desde la pantalla de entrar, reinicio de ventas solo Maxsel (botón oculto) y ventas en vivo por Tailscale Funnel si el gimnasio tiene Tailscale (si no, sigue con la nube).",
-    "win": "MaxselGimnasios-1.11.0-windows.zip",
-    "winSha": "0d50df4e62af3cbf2c83d772034a15c3bdcc172787312fc484743b97148fa5f6"
-  },
-  "comedor": {
-    "ver": "4.9.0",
-    "notas": "¿Olvidó su PIN? para administrador y cajeros. Reinicio de ventas solo para Maxsel. Mejoras de seguridad.",
-    "win": "MaxselComedores-4.9.0-windows.zip",
-    "winSha": "aa7a86aa241c285436ca7d79a6715fc8302fc04008bc4052fffa8dc51cc129ad"
-  }
-=======
  "pos": {
   "ver": "1.47",
   "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
@@ -100,10 +46,9 @@
   "winSha": "0d50df4e62af3cbf2c83d772034a15c3bdcc172787312fc484743b97148fa5f6"
  },
  "comedor": {
-  "ver": "4.8.0",
-  "notas": "Primera versión que se actualiza por internet desde Administración → Configuración.",
-  "win": "MaxselComedores-4.8.0-windows.zip",
-  "winSha": "a7c07254cc7437e1ef133e5a104635044553691821a3488a4c18d2e0568a2da6"
+  "ver": "4.9.0",
+  "notas": "¿Olvidó su PIN? para administrador y cajeros. Reinicio de ventas solo para Maxsel. Mejoras de seguridad.",
+  "win": "MaxselComedores-4.9.0-windows.zip",
+  "winSha": "aa7a86aa241c285436ca7d79a6715fc8302fc04008bc4052fffa8dc51cc129ad"
  }
->>>>>>> Stashed changes
 }
