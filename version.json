@@ -34,10 +34,10 @@
     "winSha": "1372f1cacddb12cf0192ed07d4e5c90dc855bd8427215b3e0bb35a3987dfb8ab"
   },
   "parking": {
-    "ver": "2.7.1",
-    "notas": "El portal por internet (Tailscale Funnel) ahora va con la póliza de mantenimiento incluida en la licencia.",
-    "win": "MaxselParking-2.7.1-windows.zip",
-    "winSha": "506b83aaddb472b6fe98baad8d062d0d0302cd312b8aa2b40d45821d1e5aa323"
+    "ver": "2.7.2",
+    "notas": "Mercado Pago con Iniciar sesión, tickets sin letras raras y logo discreto, productos editables y eliminables, caja más compacta, Gastos y Publicidad por licencia",
+    "win": "MaxselParking-2.7.2-windows.zip",
+    "winSha": "1720897d09f03244cc1b7158a53947049f8612d7ff22a7b265c253f5a8da4d12"
   },
   "gym": {
     "ver": "1.11.0",
