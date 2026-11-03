@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.11.0",
-  "notas": "Recuperar contraseña desde la pantalla de entrar, reinicio de ventas solo Maxsel (botón oculto) y ventas en vivo por Tailscale Funnel si el gimnasio tiene Tailscale (si no, sigue con la nube).",
-  "win": "MaxselGimnasios-1.11.0-windows.zip",
-  "winSha": "0d50df4e62af3cbf2c83d772034a15c3bdcc172787312fc484743b97148fa5f6"
+  "ver": "1.11.1",
+  "notas": "El módulo de Asistencia de empleados ahora solo se activa si la licencia lo incluye.",
+  "win": "MaxselGimnasios-1.11.1-windows.zip",
+  "winSha": "c4cddf05d23c8b588b2c81895b49a7ef1bea359865f0a407f4c05e3b95fa72fa"
  },
  "comedor": {
   "ver": "4.11.0",
