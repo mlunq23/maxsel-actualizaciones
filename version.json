@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.47",
-  "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
-  "apk": "MaxselPOS-1.47.apk",
-  "apkSha": "4895e0792ae1b49a494addf85647a551bc22a12cec107095140b3ea451d153ec",
-  "win": "MaxselPOS-1.47-windows.zip",
-  "winSha": "a8d39f51ee66398dd7a636cb9de7410a8f650967b415e3075595e1d4bf5cd4bd"
+  "ver": "1.48",
+  "notas": "Inventario: nuevo boton Hoja de conteo (imprime en ticket o en hoja carta) y Capturar conteo para ajustar todo el inventario de una vez\nNube: corregido el aviso Address already in use al salir y volver a entrar",
+  "apk": "MaxselPOS-1.48.apk",
+  "apkSha": "bca6bb72a28f084456b67d658c4d09f269541d90c06e8add85294e4e10e38f5f",
+  "win": "MaxselPOS-1.48-windows.zip",
+  "winSha": "9b80aef3c5c99bc17f757a16aab43b30233d20117bf436be5b37e8ce15dc0af5"
  },
  "nube": {
-  "ver": "1.41",
-  "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
-  "apk": "MaxselPOS-Nube-1.41.apk",
-  "apkSha": "31b3e8c7bd0e4a7e16c1cb869aecc9e46d5e5161ee0c769e41d7428c4d1b5b81",
-  "win": "MaxselPOS-Nube-1.41-windows.zip",
-  "winSha": "067475064ebc3ac842d0408aa7850e73edc1dbe86e704835deea6f863453d1e7"
+  "ver": "1.42",
+  "notas": "Inventario: nuevo boton Hoja de conteo (imprime en ticket o en hoja carta) y Capturar conteo para ajustar todo el inventario de una vez\nNube: corregido el aviso Address already in use al salir y volver a entrar",
+  "apk": "MaxselPOS-Nube-1.42.apk",
+  "apkSha": "a7210e6cba021e4302443a269aa99188eb5c19a6b5e67286d413ccf18129c63c",
+  "win": "MaxselPOS-Nube-1.42-windows.zip",
+  "winSha": "014016b44ef0d9d43e862474cbcad3c26834cdcfeb139a951e017891bf0ea013"
  },
  "hotel": {
   "ver": "1.19.1",
