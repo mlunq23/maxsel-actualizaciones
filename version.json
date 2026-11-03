@@ -46,9 +46,9 @@
     "winSha": "0d50df4e62af3cbf2c83d772034a15c3bdcc172787312fc484743b97148fa5f6"
   },
   "comedor": {
-    "ver": "4.10.1",
-    "notas": "El ticket siempre se imprime (con el logo de Maxsel al final), sin opción de cobrar sin imprimir.",
-    "win": "MaxselComedores-4.10.1-windows.zip",
-    "winSha": "6198f9d121ee6862da3e3ad1b04e6831d71c47005f2c096f7a936f14ea94b2e6"
+    "ver": "4.11.0",
+    "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
+    "win": "MaxselComedores-4.11.0-windows.zip",
+    "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
   }
 }
