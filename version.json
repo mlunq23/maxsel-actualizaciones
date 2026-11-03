@@ -1,54 +1,54 @@
 {
- "pos": {
-  "ver": "1.47",
-  "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
-  "apk": "MaxselPOS-1.47.apk",
-  "apkSha": "4895e0792ae1b49a494addf85647a551bc22a12cec107095140b3ea451d153ec",
-  "win": "MaxselPOS-1.47-windows.zip",
-  "winSha": "a8d39f51ee66398dd7a636cb9de7410a8f650967b415e3075595e1d4bf5cd4bd"
- },
- "nube": {
-  "ver": "1.41",
-  "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
-  "apk": "MaxselPOS-Nube-1.41.apk",
-  "apkSha": "31b3e8c7bd0e4a7e16c1cb869aecc9e46d5e5161ee0c769e41d7428c4d1b5b81",
-  "win": "MaxselPOS-Nube-1.41-windows.zip",
-  "winSha": "067475064ebc3ac842d0408aa7850e73edc1dbe86e704835deea6f863453d1e7"
- },
- "hotel": {
-  "ver": "1.19.0",
-  "notas": "El monitoreo desde el teléfono (Tailscale Funnel) queda incluido en la licencia por el tiempo de la póliza anual y se apaga solo al vencer. Incluye recuperar contraseña e instalador nuevo.",
-  "win": "MaxselHotel-1.19.0-windows.zip",
-  "winSha": "90889e2942bd9345778561609cb67fd3768b7422f9e0ee241e6e6cf6e5cf6620"
- },
- "motel": {
-  "ver": "1.3.0",
-  "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
-  "win": "MaxselMotel-1.3.0-windows.zip",
-  "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
- },
- "carwash": {
-  "ver": "1.7.2",
-  "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
-  "win": "MaxselCarwash-1.7.2-windows.zip",
-  "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
- },
- "parking": {
-  "ver": "2.7.2",
-  "notas": "Mercado Pago con Iniciar sesión, tickets sin letras raras y logo discreto, productos editables y eliminables, caja más compacta, Gastos y Publicidad por licencia",
-  "win": "MaxselParking-2.7.2-windows.zip",
-  "winSha": "1720897d09f03244cc1b7158a53947049f8612d7ff22a7b265c253f5a8da4d12"
- },
- "gym": {
-  "ver": "1.11.0",
-  "notas": "Recuperar contraseña desde la pantalla de entrar, reinicio de ventas solo Maxsel (botón oculto) y ventas en vivo por Tailscale Funnel si el gimnasio tiene Tailscale (si no, sigue con la nube).",
-  "win": "MaxselGimnasios-1.11.0-windows.zip",
-  "winSha": "0d50df4e62af3cbf2c83d772034a15c3bdcc172787312fc484743b97148fa5f6"
- },
- "comedor": {
-  "ver": "4.11.0",
-  "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
-  "win": "MaxselComedores-4.11.0-windows.zip",
-  "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
- }
+  "pos": {
+    "ver": "1.47",
+    "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
+    "apk": "MaxselPOS-1.47.apk",
+    "apkSha": "4895e0792ae1b49a494addf85647a551bc22a12cec107095140b3ea451d153ec",
+    "win": "MaxselPOS-1.47-windows.zip",
+    "winSha": "a8d39f51ee66398dd7a636cb9de7410a8f650967b415e3075595e1d4bf5cd4bd"
+  },
+  "nube": {
+    "ver": "1.41",
+    "notas": "Kiosko: el ticket ya imprime el logo y la leyenda de Maxsel al pie (antes salia un simbolo raro)\nIncluye: PIN al instante, ticket con logo de punto de venta",
+    "apk": "MaxselPOS-Nube-1.41.apk",
+    "apkSha": "31b3e8c7bd0e4a7e16c1cb869aecc9e46d5e5161ee0c769e41d7428c4d1b5b81",
+    "win": "MaxselPOS-Nube-1.41-windows.zip",
+    "winSha": "067475064ebc3ac842d0408aa7850e73edc1dbe86e704835deea6f863453d1e7"
+  },
+  "hotel": {
+    "ver": "1.19.0",
+    "notas": "El monitoreo desde el teléfono (Tailscale Funnel) queda incluido en la licencia por el tiempo de la póliza anual y se apaga solo al vencer. Incluye recuperar contraseña e instalador nuevo.",
+    "win": "MaxselHotel-1.19.0-windows.zip",
+    "winSha": "90889e2942bd9345778561609cb67fd3768b7422f9e0ee241e6e6cf6e5cf6620"
+  },
+  "motel": {
+    "ver": "1.3.0",
+    "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
+    "win": "MaxselMotel-1.3.0-windows.zip",
+    "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
+  },
+  "carwash": {
+    "ver": "1.7.2",
+    "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
+    "win": "MaxselCarwash-1.7.2-windows.zip",
+    "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
+  },
+  "parking": {
+    "ver": "2.7.3",
+    "notas": "Gastos solo por licencia, datos de Maxsel siempre en el ticket, cierre de turno con casillas en blanco = 0, sin fondo en dólares",
+    "win": "MaxselParking-2.7.3-windows.zip",
+    "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
+  },
+  "gym": {
+    "ver": "1.11.0",
+    "notas": "Recuperar contraseña desde la pantalla de entrar, reinicio de ventas solo Maxsel (botón oculto) y ventas en vivo por Tailscale Funnel si el gimnasio tiene Tailscale (si no, sigue con la nube).",
+    "win": "MaxselGimnasios-1.11.0-windows.zip",
+    "winSha": "0d50df4e62af3cbf2c83d772034a15c3bdcc172787312fc484743b97148fa5f6"
+  },
+  "comedor": {
+    "ver": "4.11.0",
+    "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
+    "win": "MaxselComedores-4.11.0-windows.zip",
+    "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
+  }
 }
