@@ -1,23 +1,21 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "fecha": "2026-11-03",
   "notas": [
-    "Reportes nuevos con gráficas de pastel y barras, por día, semana, mes, año o rango, comparados con el periodo anterior",
-    "Ticket de venta y corte de caja detallados, con firmas y productos más vendidos",
-    "Impresión real en cualquier impresora de 80 o 58 mm, con prueba de impresión",
-    "Tamaño de letra del ticket editable con vista previa",
-    "Abrir el cajón de dinero al cobrar",
+    "Báscula real: lee el peso de Rhino BAR-8RS, Rhino BAR-6X, Torrey y básculas por puerto COM",
+    "Detectar la báscula automáticamente y probar lectura en Configuración › Dispositivos",
+    "Al vender a granel el peso se lee solo y avisa cuando está estable",
     "Al terminar de actualizar, cierra y vuelve a abrir Maxsel Abarrotes"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.2.0.exe.gz",
-    "sha256": "8b35d27bc87332448e6374d8af121261083b7a6f584d2eb2b4fa0a16f70b881f",
-    "tamano": 23264191
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.3.0.exe.gz",
+    "sha256": "c06478021dc315df21bc57f5741ed895dd734b662eda64fc5db684dbe4d2b393",
+    "tamano": 23266189
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.2.0.exe",
-    "sha256": "90d283c4aa9f5cb9ca62567caed36b9070fb488ce164053f9f2fde7e67dfba01",
-    "tamano": 6854144
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.3.0.exe",
+    "sha256": "b0586ac17a40547c58ba5a0bfcd3d928957463f04926a6e01ce211f2be33fad0",
+    "tamano": 7145984
   },
-  "firma": "2Sx7dXH8tB4bA1TUMmlAFTMnS5ib7inTKRP+2c+Q7+PWTJV9nvw3rs2w9rkcbm8v/+oNkK+AitvDAg4w/66zBw=="
+  "firma": "ZC0osZogW4hZ4XlwJn25qU3ef75cpNuMdhT2zt20V0MPH/2SHSf5VVX7K+Fe9AryJbq52oEjF0vL8SxPQWWCAw=="
 }
