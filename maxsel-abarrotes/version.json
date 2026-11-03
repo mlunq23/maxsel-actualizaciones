@@ -1,20 +1,23 @@
 {
-  "version": "2.1.3",
-  "fecha": "2026-11-02",
+  "version": "2.2.0",
+  "fecha": "2026-11-03",
   "notas": [
-    "Reinicio del sistema oculto igual que en Maxsel Tech: 7 toques en la versión al final de Configuración",
-    "Entrar con la clave de soporte de Maxsel",
-    "¿Olvidaste tu contraseña? en la pantalla de inicio"
+    "Reportes nuevos con gráficas de pastel y barras, por día, semana, mes, año o rango, comparados con el periodo anterior",
+    "Ticket de venta y corte de caja detallados, con firmas y productos más vendidos",
+    "Impresión real en cualquier impresora de 80 o 58 mm, con prueba de impresión",
+    "Tamaño de letra del ticket editable con vista previa",
+    "Abrir el cajón de dinero al cobrar",
+    "Al terminar de actualizar, cierra y vuelve a abrir Maxsel Abarrotes"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.1.3.exe.gz",
-    "sha256": "b340b0593103820edd8a786c039473f8cc99fb975e24435493de8ff7fb8aafd4",
-    "tamano": 23240364
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.2.0.exe.gz",
+    "sha256": "8b35d27bc87332448e6374d8af121261083b7a6f584d2eb2b4fa0a16f70b881f",
+    "tamano": 23264191
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.1.3.exe",
-    "sha256": "a027eb71be0a0cc116a70d491d1cf012b6b8f1ea929c8fd75438999140bc3fc7",
-    "tamano": 6688256
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.2.0.exe",
+    "sha256": "90d283c4aa9f5cb9ca62567caed36b9070fb488ce164053f9f2fde7e67dfba01",
+    "tamano": 6854144
   },
-  "firma": "FyAud4oMrt0kkQjzWeazA7YvenplVtnUgPpe6iZJ9WZOaIT/C2H18vJ5Nzelq8uFFRcO+TdptYlDiob0y/ITBg=="
+  "firma": "2Sx7dXH8tB4bA1TUMmlAFTMnS5ib7inTKRP+2c+Q7+PWTJV9nvw3rs2w9rkcbm8v/+oNkK+AitvDAg4w/66zBw=="
 }
