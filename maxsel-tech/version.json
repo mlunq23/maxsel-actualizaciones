@@ -1,13 +1,13 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.7.exe",
-  "fecha": "2026-10-31",
-  "firma": "5f8068ad58616598843b21f4fe27d252f5c9a905dc264a7b954eecd7023732ad1c25e56b46c7c63de9277c0f54a84a6820297d1b92aca2c65c193fb05a318903",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-tech/MaxselTech-2.8.exe",
+  "fecha": "2026-11-03",
+  "firma": "07ee0f7e4b8460307e615dfd5c60444fa521dc1028480a87c1397c7ae186ef58cc841447ebb6ae3026e6bea78f2684475f550adae201ba11e645487ca5fd6b0d",
   "notas": [
-    "Grados de equipo editables: agrega los tuyos (Open Box, Nuevo…) desde el formulario o en Categorías",
-    "Corrección: al escanear la etiqueta en la venta ya se carga el producto o equipo (antes mandaba a buscar)",
-    "Los productos de tienda sin código reciben su código TD- para la etiqueta"
+    "Monitoreo desde el celular con reportes nuevos y acceso sin instalar Tailscale",
+    "Llamadas de mantenimiento a clientes, historial por número de serie y semáforo de días",
+    "Recuperar contraseña con código de Maxsel y escaneo en el taller"
   ],
-  "sha256": "b86f2076994d7811c440654a27db19479d629d0cf2703f8ec18b719a02c18647",
-  "tamano": 13423616,
-  "version": "2.7"
+  "sha256": "cbfb9308090d65adb29696d9eaab0d3717b1a08da583244462dcdaba19350fd7",
+  "tamano": 13586944,
+  "version": "2.8"
 }
