@@ -1,12 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.2.exe",
-  "fecha": "2026-11-01",
-  "firma": "163e2e53565e9dc72c3d0728de47b8f08de1c3901300299b4459c60370fe97894088f8476660ac96bee2aab108e35b079fad1cfd8557e978e3222543ca1f710a",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.3.exe",
+  "fecha": "2026-11-05",
+  "firma": "228671799c02445cc4b8c7433d336d5220d76658b067364a842f9766588e047e43f7457527acac46b5a9659b46333811b7b10a989a17c0cdb3b9c90d1a737d0f",
   "notas": [
-    "El programa ahora se llama Maxsel YI Computadoras",
-    "Las actualizaciones llegan por su propio canal"
+    "Permiso nuevo: Crear y editar categorías, sin dar toda la Configuración"
   ],
-  "sha256": "dc31cee7594aad63518b0a02269bec19ed265ef169db09e47294fbea17cbfcca",
-  "tamano": 14012416,
-  "version": "4.2"
+  "sha256": "5d86956df6adabc6a777565bb291024737cdbec15a26c0fe4d43bc5195d13a88",
+  "tamano": 14014976,
+  "version": "4.3"
 }
