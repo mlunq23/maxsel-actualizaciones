@@ -16,10 +16,10 @@
     "winSha": "014016b44ef0d9d43e862474cbcad3c26834cdcfeb139a951e017891bf0ea013"
   },
   "hotel": {
-    "ver": "1.25",
-    "notas": "Monitoreo remoto: \"Probar que funciona\" paso por paso, \"Reparar automáticamente\" el acceso por internet (Funnel) e iniciar sesión en Tailscale desde el sistema.",
-    "win": "MaxselHotel-1.25-windows.zip",
-    "winSha": "26cc9221fc54ae7ac73df5eba7a75d0cca7f964e1037aef4e1df9fd79b16daf9"
+    "ver": "1.26",
+    "notas": "Impresoras Star Micronics por red (TSP650 y similares) sin instalarlas en Windows, con búsqueda de la IP en la red. Incluye probar y reparar Funnel (1.25).",
+    "win": "MaxselHotel-1.26-windows.zip",
+    "winSha": "663ad72d8350176cbf3e85c8247bc2cc01c6a9d4643a8d9c0f3270d859289e2d"
   },
   "motel": {
     "ver": "1.3.0",
