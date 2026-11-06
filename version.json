@@ -16,10 +16,10 @@
     "winSha": "014016b44ef0d9d43e862474cbcad3c26834cdcfeb139a951e017891bf0ea013"
   },
   "hotel": {
-    "ver": "1.29",
-    "notas": "Los cambios desde internet se activan con la casilla de Monitoreo remoto (como en la 1.27). Incluye impresoras Star por red.",
-    "win": "MaxselHotel-1.29-windows.zip",
-    "winSha": "3e86bb671264936c9b769e1ec54ad264db4345e950d97bb775e5343d764973e2"
+    "ver": "1.30",
+    "notas": "Ya no se cobra doble al picar varias veces; el ticket para imprimir siempre aparece (también desde internet) y el administrador puede cancelar cobros hechos por error.",
+    "win": "MaxselHotel-1.30-windows.zip",
+    "winSha": "77b22dffc8a08b0aab1a18230aac950d43f8e84c26c636d02bedd05cebcf8bc8"
   },
   "motel": {
     "ver": "1.3.0",
