@@ -16,10 +16,10 @@
     "winSha": "014016b44ef0d9d43e862474cbcad3c26834cdcfeb139a951e017891bf0ea013"
   },
   "hotel": {
-    "ver": "1.27",
-    "notas": "Desde internet (Funnel) el Administrador y el Gerente ya pueden hacer cambios si se activa en Monitoreo remoto. Incluye impresoras Star por red (1.26).",
-    "win": "MaxselHotel-1.27-windows.zip",
-    "winSha": "d217339e8905b344654a32c1ccdb6041bdf4a29a817e5dace769710287431a2f"
+    "ver": "1.28",
+    "notas": "Desde internet (Tailscale) el Administrador y el Gerente ya pueden hacer cambios sin marcar nada. Incluye impresoras Star por red.",
+    "win": "MaxselHotel-1.28-windows.zip",
+    "winSha": "b8c94d3fa476dafd0db8c7f7f900672ab314a45452f588b3be66dac3fb2b7b02"
   },
   "motel": {
     "ver": "1.3.0",
