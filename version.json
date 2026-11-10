@@ -1,54 +1,54 @@
 {
-  "pos": {
-    "ver": "1.51",
-    "notas": "Administra todo desde tu computadora: abre http://IP-de-la-caja:puerto/productos con PIN de administrador o gerente (articulos, categorias, inventario, clientes, reportes y empleados)\nIncluye: stock minimo, faltantes, logo del negocio en el ticket",
-    "apk": "MaxselPOS-1.51.apk",
-    "apkSha": "a4cb716efc109ac9603e8ce30baaaf667063ac82a85fb5a3f289ef1f0f6dfee5",
-    "win": "MaxselPOS-1.51-windows.zip",
-    "winSha": "c3ec50838420db86dd6b04429c420bde232208c0eb93c3acefb14828d20cf08f"
-  },
-  "nube": {
-    "ver": "1.42",
-    "notas": "Inventario: nuevo boton Hoja de conteo (imprime en ticket o en hoja carta) y Capturar conteo para ajustar todo el inventario de una vez\nNube: corregido el aviso Address already in use al salir y volver a entrar",
-    "apk": "MaxselPOS-Nube-1.42.apk",
-    "apkSha": "a7210e6cba021e4302443a269aa99188eb5c19a6b5e67286d413ccf18129c63c",
-    "win": "MaxselPOS-Nube-1.42-windows.zip",
-    "winSha": "014016b44ef0d9d43e862474cbcad3c26834cdcfeb139a951e017891bf0ea013"
-  },
-  "hotel": {
-    "ver": "1.31",
-    "notas": "Tickets más completos: fecha con año y hora, quién atendió, turno, forma de pago, saldo a favor, historial de pagos en el estado de cuenta, y razón social/RFC opcionales.",
-    "win": "MaxselHotel-1.31-windows.zip",
-    "winSha": "33347dafe14b5cfcad8b738c0d23cc43f8569fd55c495622949c70c5d7c9c16d"
-  },
-  "motel": {
-    "ver": "1.3.0",
-    "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
-    "win": "MaxselMotel-1.3.0-windows.zip",
-    "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
-  },
-  "carwash": {
-    "ver": "1.7.2",
-    "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
-    "win": "MaxselCarwash-1.7.2-windows.zip",
-    "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
-  },
-  "parking": {
-    "ver": "2.7.3",
-    "notas": "Gastos solo por licencia, datos de Maxsel siempre en el ticket, cierre de turno con casillas en blanco = 0, sin fondo en dólares",
-    "win": "MaxselParking-2.7.3-windows.zip",
-    "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
-  },
-  "gym": {
-    "ver": "1.11.1",
-    "notas": "El módulo de Asistencia de empleados ahora solo se activa si la licencia lo incluye.",
-    "win": "MaxselGimnasios-1.11.1-windows.zip",
-    "winSha": "c4cddf05d23c8b588b2c81895b49a7ef1bea359865f0a407f4c05e3b95fa72fa"
-  },
-  "comedor": {
-    "ver": "4.11.0",
-    "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
-    "win": "MaxselComedores-4.11.0-windows.zip",
-    "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
-  }
+ "pos": {
+  "ver": "1.52",
+  "notas": "Ajustes organizado por apartados: Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia, con buscador\nCorregido: el numero de intentos del PIN ya se guarda",
+  "apk": "MaxselPOS-1.52.apk",
+  "apkSha": "ffab77249202864c893baf7f3da61a0caefef1eb5cc7f39632113abef3770b96",
+  "win": "MaxselPOS-1.52-windows.zip",
+  "winSha": "49a22ed5e33bf704a188612c97090a9a1f80381dd2a3408f923e7fb486053e8d"
+ },
+ "nube": {
+  "ver": "1.42",
+  "notas": "Inventario: nuevo boton Hoja de conteo (imprime en ticket o en hoja carta) y Capturar conteo para ajustar todo el inventario de una vez\nNube: corregido el aviso Address already in use al salir y volver a entrar",
+  "apk": "MaxselPOS-Nube-1.42.apk",
+  "apkSha": "a7210e6cba021e4302443a269aa99188eb5c19a6b5e67286d413ccf18129c63c",
+  "win": "MaxselPOS-Nube-1.42-windows.zip",
+  "winSha": "014016b44ef0d9d43e862474cbcad3c26834cdcfeb139a951e017891bf0ea013"
+ },
+ "hotel": {
+  "ver": "1.31",
+  "notas": "Tickets más completos: fecha con año y hora, quién atendió, turno, forma de pago, saldo a favor, historial de pagos en el estado de cuenta, y razón social/RFC opcionales.",
+  "win": "MaxselHotel-1.31-windows.zip",
+  "winSha": "33347dafe14b5cfcad8b738c0d23cc43f8569fd55c495622949c70c5d7c9c16d"
+ },
+ "motel": {
+  "ver": "1.3.0",
+  "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
+  "win": "MaxselMotel-1.3.0-windows.zip",
+  "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
+ },
+ "carwash": {
+  "ver": "1.7.2",
+  "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
+  "win": "MaxselCarwash-1.7.2-windows.zip",
+  "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
+ },
+ "parking": {
+  "ver": "2.7.3",
+  "notas": "Gastos solo por licencia, datos de Maxsel siempre en el ticket, cierre de turno con casillas en blanco = 0, sin fondo en dólares",
+  "win": "MaxselParking-2.7.3-windows.zip",
+  "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
+ },
+ "gym": {
+  "ver": "1.11.1",
+  "notas": "El módulo de Asistencia de empleados ahora solo se activa si la licencia lo incluye.",
+  "win": "MaxselGimnasios-1.11.1-windows.zip",
+  "winSha": "c4cddf05d23c8b588b2c81895b49a7ef1bea359865f0a407f4c05e3b95fa72fa"
+ },
+ "comedor": {
+  "ver": "4.11.0",
+  "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
+  "win": "MaxselComedores-4.11.0-windows.zip",
+  "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
+ }
 }
