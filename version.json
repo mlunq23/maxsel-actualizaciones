@@ -1,11 +1,11 @@
 {
  "pos": {
-  "ver": "1.50",
-  "notas": "Alta de productos desde otra computadora o celular: abre http://IP-de-la-caja:puerto/productos (la direccion sin /productos es el monitor de ventas)\nIncluye: stock minimo, faltantes, logo del negocio en el ticket y ajustes con autoguardado",
-  "apk": "MaxselPOS-1.50.apk",
-  "apkSha": "5bef8c5b17e9efe353144152344e3b01c66760a6b614774764636f5374945d5e",
-  "win": "MaxselPOS-1.50-windows.zip",
-  "winSha": "c86fcda2e7fe437ccb27522bb4cd16134c6b1ce327d701b2cd65ec2b98f9f861"
+  "ver": "1.51",
+  "notas": "Administra todo desde tu computadora: abre http://IP-de-la-caja:puerto/productos con PIN de administrador o gerente (articulos, categorias, inventario, clientes, reportes y empleados)\nIncluye: stock minimo, faltantes, logo del negocio en el ticket",
+  "apk": "MaxselPOS-1.51.apk",
+  "apkSha": "a4cb716efc109ac9603e8ce30baaaf667063ac82a85fb5a3f289ef1f0f6dfee5",
+  "win": "MaxselPOS-1.51-windows.zip",
+  "winSha": "c3ec50838420db86dd6b04429c420bde232208c0eb93c3acefb14828d20cf08f"
  },
  "nube": {
   "ver": "1.42",
