@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.12.0",
-  "notas": "Botón para guardar los datos del lector (se guardan solos al usarlo) y búsqueda de las fotos que faltan en la computadora (iVMS-4200, Hik-Connect, carpetas).",
-  "win": "MaxselGimnasios-1.12.0-windows.zip",
-  "winSha": "19d77e440bc8da553816294bca3d9f545a7e224fe13460fd35fa6397b643cfd5"
+  "ver": "1.12.1",
+  "notas": "Tomar la foto con el lector ya no se queda esperando: si no hay conexión avisa al momento y corrige el puerto solo; botón para usar la cámara de la PC. Incluye guardar datos del lector y buscar fotos en la computadora.",
+  "win": "MaxselGimnasios-1.12.1-windows.zip",
+  "winSha": "682f999feaaad31bfef0a46e260bf3c5f4c082ae446a9295d20a286857588644"
  },
  "comedor": {
   "ver": "4.11.0",
