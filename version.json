@@ -8,12 +8,12 @@
   "winSha": "49a22ed5e33bf704a188612c97090a9a1f80381dd2a3408f923e7fb486053e8d"
  },
  "nube": {
-  "ver": "1.42",
-  "notas": "Inventario: nuevo boton Hoja de conteo (imprime en ticket o en hoja carta) y Capturar conteo para ajustar todo el inventario de una vez\nNube: corregido el aviso Address already in use al salir y volver a entrar",
-  "apk": "MaxselPOS-Nube-1.42.apk",
-  "apkSha": "a7210e6cba021e4302443a269aa99188eb5c19a6b5e67286d413ccf18129c63c",
-  "win": "MaxselPOS-Nube-1.42-windows.zip",
-  "winSha": "014016b44ef0d9d43e862474cbcad3c26834cdcfeb139a951e017891bf0ea013"
+  "ver": "1.43",
+  "notas": "Ajustes organizado por apartados con buscador (Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia)\nStock minimo por producto y boton Faltantes\nEl logo del negocio sale en el ticket\nLos datos del negocio se guardan solos al escribir",
+  "apk": "MaxselPOS-Nube-1.43.apk",
+  "apkSha": "bb16eccf7ceab9d0abd8c698be742a78c25a32905d0438f4d68e6da2370f4401",
+  "win": "MaxselPOS-Nube-1.43-windows.zip",
+  "winSha": "8af3424785bfd47f1a917929a16d3c66591e9d369c8a287f100a61b8b20805fa"
  },
  "hotel": {
   "ver": "1.31",
