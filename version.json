@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.11.1",
-  "notas": "El módulo de Asistencia de empleados ahora solo se activa si la licencia lo incluye.",
-  "win": "MaxselGimnasios-1.11.1-windows.zip",
-  "winSha": "c4cddf05d23c8b588b2c81895b49a7ef1bea359865f0a407f4c05e3b95fa72fa"
+  "ver": "1.12.0",
+  "notas": "Botón para guardar los datos del lector (se guardan solos al usarlo) y búsqueda de las fotos que faltan en la computadora (iVMS-4200, Hik-Connect, carpetas).",
+  "win": "MaxselGimnasios-1.12.0-windows.zip",
+  "winSha": "19d77e440bc8da553816294bca3d9f545a7e224fe13460fd35fa6397b643cfd5"
  },
  "comedor": {
   "ver": "4.11.0",
