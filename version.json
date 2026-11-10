@@ -1,11 +1,11 @@
 {
  "pos": {
-  "ver": "1.49",
-  "notas": "Stock minimo por producto, aviso de stock bajo y boton Faltantes para imprimir lo que hay que pedir\nEl logo de tu negocio ahora sale en el ticket\nDar de alta productos desde otro celular o computadora en la misma red\nAjustes: los datos del negocio se guardan solos al escribir",
-  "apk": "MaxselPOS-1.49.apk",
-  "apkSha": "89deae7baa0b4809b5dc1fc0f39eb1afc2c34a3ba95bf9423c1368c3395612de",
-  "win": "MaxselPOS-1.49-windows.zip",
-  "winSha": "d556b7d257fd58a580a9bb47d3f3680b9b266ba1b3e6b15bb143064415c16d3c"
+  "ver": "1.50",
+  "notas": "Alta de productos desde otra computadora o celular: abre http://IP-de-la-caja:puerto/productos (la direccion sin /productos es el monitor de ventas)\nIncluye: stock minimo, faltantes, logo del negocio en el ticket y ajustes con autoguardado",
+  "apk": "MaxselPOS-1.50.apk",
+  "apkSha": "5bef8c5b17e9efe353144152344e3b01c66760a6b614774764636f5374945d5e",
+  "win": "MaxselPOS-1.50-windows.zip",
+  "winSha": "c86fcda2e7fe437ccb27522bb4cd16134c6b1ce327d701b2cd65ec2b98f9f861"
  },
  "nube": {
   "ver": "1.42",
