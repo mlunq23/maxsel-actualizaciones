@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.12.1",
-  "notas": "Tomar la foto con el lector ya no se queda esperando: si no hay conexión avisa al momento y corrige el puerto solo; botón para usar la cámara de la PC. Incluye guardar datos del lector y buscar fotos en la computadora.",
-  "win": "MaxselGimnasios-1.12.1-windows.zip",
-  "winSha": "682f999feaaad31bfef0a46e260bf3c5f4c082ae446a9295d20a286857588644"
+  "ver": "1.12.2",
+  "notas": "Descuentos al vender productos y membresías; la foto del rostro se revisa y se guarda con un botón (también al dar de alta al cliente); pregunta antes de cerrar el programa; ya no se repite la entrada de la misma persona; arreglo del texto en \"Cuenta en tienda\".",
+  "win": "MaxselGimnasios-1.12.2-windows.zip",
+  "winSha": "8cd6ce98297dc31f476e3dc685eab9031d44d23867aec567473b4e43a78c1c26"
  },
  "comedor": {
   "ver": "4.11.0",
