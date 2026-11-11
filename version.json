@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.12.2",
-  "notas": "Descuentos al vender productos y membresías; la foto del rostro se revisa y se guarda con un botón (también al dar de alta al cliente); pregunta antes de cerrar el programa; ya no se repite la entrada de la misma persona; arreglo del texto en \"Cuenta en tienda\".",
-  "win": "MaxselGimnasios-1.12.2-windows.zip",
-  "winSha": "8cd6ce98297dc31f476e3dc685eab9031d44d23867aec567473b4e43a78c1c26"
+  "ver": "1.12.3",
+  "notas": "Captura de foto con el lector: recuerda la forma que funciona con tu lector (más rápida la segunda vez) y guarda el detalle en \"Diagnóstico del lector\". Incluye descuentos, guardar foto y confirmar al cerrar.",
+  "win": "MaxselGimnasios-1.12.3-windows.zip",
+  "winSha": "b544a8d570b49db71248875ded568683742bb055cb441c41986e2d5081fffe3f"
  },
  "comedor": {
   "ver": "4.11.0",
