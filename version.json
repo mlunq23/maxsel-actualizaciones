@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.12.3",
-  "notas": "Captura de foto con el lector: recuerda la forma que funciona con tu lector (más rápida la segunda vez) y guarda el detalle en \"Diagnóstico del lector\". Incluye descuentos, guardar foto y confirmar al cerrar.",
-  "win": "MaxselGimnasios-1.12.3-windows.zip",
-  "winSha": "b544a8d570b49db71248875ded568683742bb055cb441c41986e2d5081fffe3f"
+  "ver": "1.12.4",
+  "notas": "Tomar la foto del rostro con el celular (código QR, sin webcam). A los clientes importados del lector se les puede cambiar la foto sin quitarles el acceso.",
+  "win": "MaxselGimnasios-1.12.4-windows.zip",
+  "winSha": "d00badc622cd392070c55e19bd680a5290cdc0196a23cacdbb7990e0a100f699"
  },
  "comedor": {
   "ver": "4.11.0",
