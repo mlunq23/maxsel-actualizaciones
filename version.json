@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.12.6",
-  "notas": "\"Diagnóstico del lector\" ahora muestra los últimos eventos del lector y qué hizo el sistema con cada uno (para revisar entradas que no aparecen en pantalla).",
-  "win": "MaxselGimnasios-1.12.6-windows.zip",
-  "winSha": "366dcbc79cf538662893317af35462d50f20d55ea4e169cc7ae0d9246b302e58"
+  "ver": "1.12.7",
+  "notas": "Al bloquear a un cliente (también los importados del lector) se le quita el acceso en el lector. Si el lector deja pasar a alguien bloqueado o vencido, el sistema lo corrige en el lector al momento.",
+  "win": "MaxselGimnasios-1.12.7-windows.zip",
+  "winSha": "d6bbf06df6b90c99af2aecd7ed353102c605452baaa108380b568b84e00b2a8d"
  },
  "comedor": {
   "ver": "4.11.0",
