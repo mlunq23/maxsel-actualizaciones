@@ -1,54 +1,54 @@
 {
- "pos": {
-  "ver": "1.52",
-  "notas": "Ajustes organizado por apartados: Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia, con buscador\nCorregido: el numero de intentos del PIN ya se guarda",
-  "apk": "MaxselPOS-1.52.apk",
-  "apkSha": "ffab77249202864c893baf7f3da61a0caefef1eb5cc7f39632113abef3770b96",
-  "win": "MaxselPOS-1.52-windows.zip",
-  "winSha": "49a22ed5e33bf704a188612c97090a9a1f80381dd2a3408f923e7fb486053e8d"
- },
- "nube": {
-  "ver": "1.43",
-  "notas": "Ajustes organizado por apartados con buscador (Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia)\nStock minimo por producto y boton Faltantes\nEl logo del negocio sale en el ticket\nLos datos del negocio se guardan solos al escribir",
-  "apk": "MaxselPOS-Nube-1.43.apk",
-  "apkSha": "bb16eccf7ceab9d0abd8c698be742a78c25a32905d0438f4d68e6da2370f4401",
-  "win": "MaxselPOS-Nube-1.43-windows.zip",
-  "winSha": "8af3424785bfd47f1a917929a16d3c66591e9d369c8a287f100a61b8b20805fa"
- },
- "hotel": {
-  "ver": "1.31",
-  "notas": "Tickets más completos: fecha con año y hora, quién atendió, turno, forma de pago, saldo a favor, historial de pagos en el estado de cuenta, y razón social/RFC opcionales.",
-  "win": "MaxselHotel-1.31-windows.zip",
-  "winSha": "33347dafe14b5cfcad8b738c0d23cc43f8569fd55c495622949c70c5d7c9c16d"
- },
- "motel": {
-  "ver": "1.3.0",
-  "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
-  "win": "MaxselMotel-1.3.0-windows.zip",
-  "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
- },
- "carwash": {
-  "ver": "1.7.2",
-  "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
-  "win": "MaxselCarwash-1.7.2-windows.zip",
-  "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
- },
- "parking": {
-  "ver": "2.7.3",
-  "notas": "Gastos solo por licencia, datos de Maxsel siempre en el ticket, cierre de turno con casillas en blanco = 0, sin fondo en dólares",
-  "win": "MaxselParking-2.7.3-windows.zip",
-  "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
- },
- "gym": {
-  "ver": "1.12.4",
-  "notas": "Tomar la foto del rostro con el celular (código QR, sin webcam). A los clientes importados del lector se les puede cambiar la foto sin quitarles el acceso.",
-  "win": "MaxselGimnasios-1.12.4-windows.zip",
-  "winSha": "d00badc622cd392070c55e19bd680a5290cdc0196a23cacdbb7990e0a100f699"
- },
- "comedor": {
-  "ver": "4.11.0",
-  "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
-  "win": "MaxselComedores-4.11.0-windows.zip",
-  "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
- }
+  "pos": {
+    "ver": "1.52",
+    "notas": "Ajustes organizado por apartados: Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia, con buscador\nCorregido: el numero de intentos del PIN ya se guarda",
+    "apk": "MaxselPOS-1.52.apk",
+    "apkSha": "ffab77249202864c893baf7f3da61a0caefef1eb5cc7f39632113abef3770b96",
+    "win": "MaxselPOS-1.52-windows.zip",
+    "winSha": "49a22ed5e33bf704a188612c97090a9a1f80381dd2a3408f923e7fb486053e8d"
+  },
+  "nube": {
+    "ver": "1.43",
+    "notas": "Ajustes organizado por apartados con buscador (Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia)\nStock minimo por producto y boton Faltantes\nEl logo del negocio sale en el ticket\nLos datos del negocio se guardan solos al escribir",
+    "apk": "MaxselPOS-Nube-1.43.apk",
+    "apkSha": "bb16eccf7ceab9d0abd8c698be742a78c25a32905d0438f4d68e6da2370f4401",
+    "win": "MaxselPOS-Nube-1.43-windows.zip",
+    "winSha": "8af3424785bfd47f1a917929a16d3c66591e9d369c8a287f100a61b8b20805fa"
+  },
+  "hotel": {
+    "ver": "1.32",
+    "notas": "Arreglado: estando en Tienda u otra pantalla, el sistema ya no se regresa solo a Habitaciones.",
+    "win": "MaxselHotel-1.32-windows.zip",
+    "winSha": "4520cdd96e3af717f3c24e9b88eb015bbfd5a67fbe5ab95de306033581834def"
+  },
+  "motel": {
+    "ver": "1.3.0",
+    "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
+    "win": "MaxselMotel-1.3.0-windows.zip",
+    "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
+  },
+  "carwash": {
+    "ver": "1.7.2",
+    "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
+    "win": "MaxselCarwash-1.7.2-windows.zip",
+    "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
+  },
+  "parking": {
+    "ver": "2.7.3",
+    "notas": "Gastos solo por licencia, datos de Maxsel siempre en el ticket, cierre de turno con casillas en blanco = 0, sin fondo en dólares",
+    "win": "MaxselParking-2.7.3-windows.zip",
+    "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
+  },
+  "gym": {
+    "ver": "1.12.4",
+    "notas": "Tomar la foto del rostro con el celular (código QR, sin webcam). A los clientes importados del lector se les puede cambiar la foto sin quitarles el acceso.",
+    "win": "MaxselGimnasios-1.12.4-windows.zip",
+    "winSha": "d00badc622cd392070c55e19bd680a5290cdc0196a23cacdbb7990e0a100f699"
+  },
+  "comedor": {
+    "ver": "4.11.0",
+    "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
+    "win": "MaxselComedores-4.11.0-windows.zip",
+    "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
+  }
 }
