@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.12.5",
-  "notas": "Al cambiar la foto a un cliente importado del lector solo se manda el rostro (ya no falla con \"el lector no respondió\"); si el lector está ocupado, el sistema espera y vuelve a intentar.",
-  "win": "MaxselGimnasios-1.12.5-windows.zip",
-  "winSha": "8723643c7b0c9003fb0dc083372a83735bb9629bcf8be170979b86bcff30f80f"
+  "ver": "1.12.6",
+  "notas": "\"Diagnóstico del lector\" ahora muestra los últimos eventos del lector y qué hizo el sistema con cada uno (para revisar entradas que no aparecen en pantalla).",
+  "win": "MaxselGimnasios-1.12.6-windows.zip",
+  "winSha": "366dcbc79cf538662893317af35462d50f20d55ea4e169cc7ae0d9246b302e58"
  },
  "comedor": {
   "ver": "4.11.0",
