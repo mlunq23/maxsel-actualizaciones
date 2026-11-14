@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.9.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.10.exe",
   "fecha": "2026-11-14",
-  "firma": "ca63f4b13d6d0fb632c3e155564007f2ee110a9a27a89407cdc728f95fb27c0fd31109a56647ce4fecb337bfba289172dd76ba7642d1f5993f8ddc70b43bfa03",
+  "firma": "9f33fe7bb6847161cccf9a1dc6baacedae9b902d8e351831a0b45595165f90f1fdcc4a1bfd58160d8542bf7fa77fc09904fd669e3f5daa5fd3fd28a72a44800e",
   "notas": [
-    "Salvaguarda de caja: tope de efectivo, retiro autorizado por administrador y ticket."
+    "Salvaguarda: el cajero solo ve la cantidad a retirar."
   ],
-  "sha256": "84f72dfa3f6d3ee5cc73b4441bbd70b5cfa4c39d24f7b97d22f92e8a166f1a28",
-  "tamano": 14061568,
-  "version": "4.9"
+  "sha256": "95408535b13a6dab01c7b315f948061f885a9ce86b6add7d2c64bfb1a7ffb13f",
+  "tamano": 14062080,
+  "version": "4.10"
 }
