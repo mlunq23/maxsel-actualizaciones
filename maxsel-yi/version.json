@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.10.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.11.exe",
   "fecha": "2026-11-14",
-  "firma": "9f33fe7bb6847161cccf9a1dc6baacedae9b902d8e351831a0b45595165f90f1fdcc4a1bfd58160d8542bf7fa77fc09904fd669e3f5daa5fd3fd28a72a44800e",
+  "firma": "e36ea4d346ab4114795507dc229ffb978a50459cebb66e3866644760ec459f12e7e95fe569faec2adcf3192a29386557d36c518f641f835f768c94f1d702f60a",
   "notas": [
-    "Salvaguarda: el cajero solo ve la cantidad a retirar."
+    "Las cajas solo se conectan a la computadora principal con licencia."
   ],
-  "sha256": "95408535b13a6dab01c7b315f948061f885a9ce86b6add7d2c64bfb1a7ffb13f",
+  "sha256": "5167e089fe5e0a41226a4e89d9573ca70da440d6822b0bccd980dd5741c5a563",
   "tamano": 14062080,
-  "version": "4.10"
+  "version": "4.11"
 }
