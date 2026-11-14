@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.6.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.7.exe",
   "fecha": "2026-11-14",
-  "firma": "d1ad262d11cb7288cdfac3328cb9869d6e307cea2535ec78f47e48ef00b62c6a2fa9ee7c1e39256a07c166453146c4e8ebe49031a69531402b1fd9be1c2adb0f",
+  "firma": "8f785720c9fda846fa584ab1d8cd10e53136823c15951d3a49097f261b7d9379a1cc4cb9d734bc0632e121255a970ae901d2b9ee382060c3a90b709ec8c42d05",
   "notas": [
-    "Una sola caja cobra: las demás computadoras mandan la venta a caja. Etiquetas con precio opcional."
+    "Ventas en espera con nombre del cliente y quién vendió; buscador."
   ],
-  "sha256": "a11995319de8da7e19760256434a856a45d0ec9ae5bad4a5bab59f200f6db053",
-  "tamano": 14037504,
-  "version": "4.6"
+  "sha256": "2e6d2281d395d77f970bc09bd9ea1512f77ceda43396e87935064b71d2904ad2",
+  "tamano": 14039040,
+  "version": "4.7"
 }
