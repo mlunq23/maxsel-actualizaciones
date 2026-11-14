@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.11.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.12.exe",
   "fecha": "2026-11-14",
-  "firma": "e36ea4d346ab4114795507dc229ffb978a50459cebb66e3866644760ec459f12e7e95fe569faec2adcf3192a29386557d36c518f641f835f768c94f1d702f60a",
+  "firma": "9c86c15aba5263cbe184f87c57af328dcd78eddf034e86c0b30bdb49bea1ba64cd8eaf7b60b3dc5b14e683e78532878f81e39c682aba917c8924d2af50236a0d",
   "notas": [
-    "Las cajas solo se conectan a la computadora principal con licencia."
+    "Al abrir por primera vez pregunta: computadora principal o conectar a la principal."
   ],
-  "sha256": "5167e089fe5e0a41226a4e89d9573ca70da440d6822b0bccd980dd5741c5a563",
-  "tamano": 14062080,
-  "version": "4.11"
+  "sha256": "43e27005cc7695ac83e9d18fb1e24ff3d7fb099f5e1398bb182b4be2476dfb66",
+  "tamano": 14071808,
+  "version": "4.12"
 }
