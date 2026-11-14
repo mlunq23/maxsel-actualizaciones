@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.7.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.8.exe",
   "fecha": "2026-11-14",
-  "firma": "8f785720c9fda846fa584ab1d8cd10e53136823c15951d3a49097f261b7d9379a1cc4cb9d734bc0632e121255a970ae901d2b9ee382060c3a90b709ec8c42d05",
+  "firma": "d8c086505401d6f744e9e43b3fccbdc2664b4f2f2753bf4fdf304025e5e928f6c3a72118b233243065bbcaa755a227f1e81b7becd6337e4da2dd1725ecdbc30f",
   "notas": [
-    "Ventas en espera con nombre del cliente y quién vendió; buscador."
+    "Al dar de alta un equipo pregunta si la etiqueta lleva precio antes de imprimir."
   ],
-  "sha256": "2e6d2281d395d77f970bc09bd9ea1512f77ceda43396e87935064b71d2904ad2",
-  "tamano": 14039040,
-  "version": "4.7"
+  "sha256": "f53998862b96d60e821f5757cfd39fbe58ffa4aa9ed36567d5d918d1fff34b4a",
+  "tamano": 14039552,
+  "version": "4.8"
 }
