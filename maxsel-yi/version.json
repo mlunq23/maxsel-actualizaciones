@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.3.exe",
-  "fecha": "2026-11-05",
-  "firma": "228671799c02445cc4b8c7433d336d5220d76658b067364a842f9766588e047e43f7457527acac46b5a9659b46333811b7b10a989a17c0cdb3b9c90d1a737d0f",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.4.exe",
+  "fecha": "2026-11-14",
+  "firma": "bef681c0879e27cc56a6a231ea0d126eb986faee8437be968ace4895c2443d2d9c6425492215733f9a7fa3b3385a9e5238dd79e412c3481da47419c73cadd60f",
   "notas": [
-    "Permiso nuevo: Crear y editar categorías, sin dar toda la Configuración"
+    "Códigos de barras por categoría (MON-001, LAP-001…) y exportar inventarios completos a Excel"
   ],
-  "sha256": "5d86956df6adabc6a777565bb291024737cdbec15a26c0fe4d43bc5195d13a88",
-  "tamano": 14014976,
-  "version": "4.3"
+  "sha256": "3717bcc968302c64a2f1bcec123074d6e0c082ef9079f280dcb3d0ff152554ba",
+  "tamano": 14031360,
+  "version": "4.4"
 }
