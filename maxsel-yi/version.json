@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.8.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.9.exe",
   "fecha": "2026-11-14",
-  "firma": "d8c086505401d6f744e9e43b3fccbdc2664b4f2f2753bf4fdf304025e5e928f6c3a72118b233243065bbcaa755a227f1e81b7becd6337e4da2dd1725ecdbc30f",
+  "firma": "ca63f4b13d6d0fb632c3e155564007f2ee110a9a27a89407cdc728f95fb27c0fd31109a56647ce4fecb337bfba289172dd76ba7642d1f5993f8ddc70b43bfa03",
   "notas": [
-    "Al dar de alta un equipo pregunta si la etiqueta lleva precio antes de imprimir."
+    "Salvaguarda de caja: tope de efectivo, retiro autorizado por administrador y ticket."
   ],
-  "sha256": "f53998862b96d60e821f5757cfd39fbe58ffa4aa9ed36567d5d918d1fff34b4a",
-  "tamano": 14039552,
-  "version": "4.8"
+  "sha256": "84f72dfa3f6d3ee5cc73b4441bbd70b5cfa4c39d24f7b97d22f92e8a166f1a28",
+  "tamano": 14061568,
+  "version": "4.9"
 }
