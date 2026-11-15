@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.13.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.14.exe",
   "fecha": "2026-11-14",
-  "firma": "6f2180340b1d3ec6fac1ca334d2c3bc3744bc90a713d96c8e822bf3e32c1f74dd7bd8990efd59a48742063b75f724f2e0b4510c6a8477dac95391ebbe9d74b07",
+  "firma": "726b45f6283d274c3f9caeb0c80ae34975022703c5b0a697a2434f58faafaeee8f807794b2da9684dbb08b4c2a9cc91687c9a7ad33cb2ae82339781498ebfc02",
   "notas": [
-    "Las cajas encuentran la computadora principal aunque tenga varias redes; ya no se quedan en blanco."
+    "Ventana de las cajas sin pantalla en blanco; una sola ventana por computadora."
   ],
-  "sha256": "a68278b41f11d18f539bceedb850904a3ca3e73c9c73735da78179008c5738dd",
-  "tamano": 14072832,
-  "version": "4.13"
+  "sha256": "aa788b140434bc84ecb8ea0ee87dd4ceb9ff92040b31afb24cf6f4d7adb34f87",
+  "tamano": 14075392,
+  "version": "4.14"
 }
