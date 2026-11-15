@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.14.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.15.exe",
   "fecha": "2026-11-14",
-  "firma": "726b45f6283d274c3f9caeb0c80ae34975022703c5b0a697a2434f58faafaeee8f807794b2da9684dbb08b4c2a9cc91687c9a7ad33cb2ae82339781498ebfc02",
+  "firma": "e50be39724cdcd032cf9626d6d2642ce3143ab4341d0c2279a8d1d68bec6e4c0f17bf4ec6b4dc48858034592ec4b27e3220d1e2d4ab62c611f86d4ba490bdc03",
   "notas": [
-    "Ventana de las cajas sin pantalla en blanco; una sola ventana por computadora."
+    "Las cajas se recuperan solas si la ventana se queda en blanco; aviso claro cuando no hay conexión."
   ],
-  "sha256": "aa788b140434bc84ecb8ea0ee87dd4ceb9ff92040b31afb24cf6f4d7adb34f87",
-  "tamano": 14075392,
-  "version": "4.14"
+  "sha256": "7f36a34d57f1d3754d834b7cd9ec73c8ca1ebe7b6c93610c091004e6dde8d13e",
+  "tamano": 14079488,
+  "version": "4.15"
 }
