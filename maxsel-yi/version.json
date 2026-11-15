@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.32.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.33.exe",
   "fecha": "2026-11-14",
-  "firma": "64ccad421f28e1dacb57d52cc8b7675ba6244cdc9afaeefa786fbe41fee1a83115eb12342308eebfb4b5bd793c11202d772925c447525c2f13b6ff13e63be10a",
+  "firma": "35a62eca3426be9d077a39727b7d929c96aceee6006c4b3e7f891a1fcbf9afa4801e861848ae0cd8786b1748d77865aedb69ce02604ec65f0de6bac6b1c8aa07",
   "notas": [
-    "Las ventas en espera solo se guardan, ya no se imprimen; el ticket lo imprime el cajero al cobrar."
+    "Texto fijo para Facebook: encabezado y pie (dirección, link de Maps, WhatsApp, emojis) en Configuración → Negocio."
   ],
-  "sha256": "270bd796d3c057499e157090c6b31d1536ed458b7047fa2d346e40687571c047",
-  "tamano": 14176768,
-  "version": "4.32"
+  "sha256": "f093c64bca113f65437d170c7c04c884ee598545a0a8eb2bd59fdcf5b194c768",
+  "tamano": 14181376,
+  "version": "4.33"
 }
