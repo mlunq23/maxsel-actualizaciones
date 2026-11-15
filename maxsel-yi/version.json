@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.26.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.27.exe",
   "fecha": "2026-11-14",
-  "firma": "00bac9a7b6c9d6325e9f7f26044c6cc9ddd1719b3f11c3142eeb14653df87d63a30d66e2a97d6b446f8ba321b788c1a4b13161c784509a4d6c29e25bc2e8c30f",
+  "firma": "1ebc720e0c4e265f5aaf52b8da8342c88a8f230f858126b3c0c9d29460414fbb719cd87223608743332e53ec0ff24ff31d7cf11a055153322cd0cae5f48b1f00",
   "notas": [
-    "Compatible con impresoras Brady i7100 / i5100 (perfil listo en Configuración → Esta computadora)."
+    "Etiquetas: mover a la izquierda, derecha, arriba y abajo con botones."
   ],
-  "sha256": "80f309fecf558469d541142aa26f174987ef75498c46949c8cfc19e8e7df8c73",
-  "tamano": 14128128,
-  "version": "4.26"
+  "sha256": "3bc363905d62d2ce0830c08579d6cfe5e04791abc80f84dc46bbb86fb7d67b80",
+  "tamano": 14129664,
+  "version": "4.27"
 }
