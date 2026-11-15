@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.24.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.25.exe",
   "fecha": "2026-11-14",
-  "firma": "1abd2867e9a131440ce19826462550c0b3bed147fdc9dfd84d3f913cc6dcd4f68df7450c70600e0d083a5cef924b26674a8511c078e573c3cda464041725390e",
+  "firma": "b23a46f13f9cd9e3746b5ef24cc0d9d633d40323b0ecee4f27ddc488f32f412d85552a9668234630b7efe57539d245b684b6fc8560461f021e2599fbaa46d605",
   "notas": [
-    "Las cajas se reconectan solas si se pierde la conexión o la pantalla se queda en blanco; ya no hay que cerrar el programa."
+    "Permisos separados: dar de alta, modificar y dar de baja/eliminar del inventario; la baja la autoriza el gerente. Reconexión automática de cajas."
   ],
-  "sha256": "58801d179af55bf2fd8584c9c2a75417fe1d4bbe31c3609aef234d3c082c58c0",
-  "tamano": 14115840,
-  "version": "4.24"
+  "sha256": "96aedac4d746422cd42eaaecfceb7d145eb0602fc736d1d21a0493e127e0f49a",
+  "tamano": 14127616,
+  "version": "4.25"
 }
