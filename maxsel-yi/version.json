@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.33.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.34.exe",
   "fecha": "2026-11-14",
-  "firma": "35a62eca3426be9d077a39727b7d929c96aceee6006c4b3e7f891a1fcbf9afa4801e861848ae0cd8786b1748d77865aedb69ce02604ec65f0de6bac6b1c8aa07",
+  "firma": "c4fe8e9f64de39562826619d307a8d1c01d573d1c139b5feb50b2b7cacd0a936da24feaffb4b7976ecb5e373b0355e215e5040453b3d72b87a162e6513e17f0f",
   "notas": [
-    "Texto fijo para Facebook: encabezado y pie (dirección, link de Maps, WhatsApp, emojis) en Configuración → Negocio."
+    "Plantillas de Facebook con los datos del equipo ({procesador}, {ram}…), link de Maps, WhatsApp con emojis y todo en mayúsculas."
   ],
-  "sha256": "f093c64bca113f65437d170c7c04c884ee598545a0a8eb2bd59fdcf5b194c768",
-  "tamano": 14181376,
-  "version": "4.33"
+  "sha256": "39fa1c25df84f5ea59ccb36e7cb335c9b6782ab3d9f3df1bb3cf7475c40dda1b",
+  "tamano": 14186496,
+  "version": "4.34"
 }
