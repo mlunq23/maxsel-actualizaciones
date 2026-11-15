@@ -1,12 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.31.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.32.exe",
   "fecha": "2026-11-14",
-  "firma": "d793fed0c14c482c17aabdc41971edaac3499df3341fb9a8390cd8dc199c93a40b7ea14ddd51228542dbaf32923f18383fff4598b22a4b88257581a2339a290d",
+  "firma": "64ccad421f28e1dacb57d52cc8b7675ba6244cdc9afaeefa786fbe41fee1a83115eb12342308eebfb4b5bd793c11202d772925c447525c2f13b6ff13e63be10a",
   "notas": [
-    "Fotos en productos y equipos (hasta 12); la principal aparece al buscar.",
-    "Descripción para Facebook: generarla, copiarla y descargar las fotos (botón Fotos y Facebook)."
+    "Las ventas en espera solo se guardan, ya no se imprimen; el ticket lo imprime el cajero al cobrar."
   ],
-  "sha256": "691f02302845ee4181bd6075a35affeef6d692fddcb1bc65a3e468b56ab63fdf",
+  "sha256": "270bd796d3c057499e157090c6b31d1536ed458b7047fa2d346e40687571c047",
   "tamano": 14176768,
-  "version": "4.31"
+  "version": "4.32"
 }
