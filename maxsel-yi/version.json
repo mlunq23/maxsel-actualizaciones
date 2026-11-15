@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.21.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.22.exe",
   "fecha": "2026-11-14",
-  "firma": "9605a63d545b4789619fedd2158512dde73a1dcd02f245a001f9a85c9ca4c96575394b838facabba726ce6da60e83a179093a3e50198b538f97d9b2deb78f602",
+  "firma": "ba6d0ec7b26cef00a2b474747a7ce09d3295fa4687d88e6a611b01b27ac56e3a59894101c370369f5b835bd1b3716abae2622a4425e97bd3a75d74e6c7476502",
   "notas": [
-    "Cambiar precio de venta (subir o bajar) desde la ficha del equipo o producto, con registro en la bitácora."
+    "Cada caja puede elegir si se pone al día sola o solo cuando se pida."
   ],
-  "sha256": "795ab782c2cd57a7cfbb3f53a682d1f18e194f720cbcc91fe18b4f31738d1e53",
-  "tamano": 14104576,
-  "version": "4.21"
+  "sha256": "bed0bea5862af2a96449d66f1e8c9f06b23c3cf4f0d78929af1d90cdc9703f01",
+  "tamano": 14106624,
+  "version": "4.22"
 }
