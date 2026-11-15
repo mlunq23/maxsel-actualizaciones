@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.34.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.35.exe",
   "fecha": "2026-11-14",
-  "firma": "c4fe8e9f64de39562826619d307a8d1c01d573d1c139b5feb50b2b7cacd0a936da24feaffb4b7976ecb5e373b0355e215e5040453b3d72b87a162e6513e17f0f",
+  "firma": "6726c624ce961c20647531c069516a7aa265f11a85a1d982d0ac74f1fa3a37ed50cf4d547154848cd415d8317afa5d37e38c428a7082fc9459cbbe1863597f02",
   "notas": [
-    "Plantillas de Facebook con los datos del equipo ({procesador}, {ram}…), link de Maps, WhatsApp con emojis y todo en mayúsculas."
+    "Zebra LP/TLP 2844: la etiqueta ya sale centrada (antes se cortaba del lado izquierdo). Perfil rápido para la 2844."
   ],
-  "sha256": "39fa1c25df84f5ea59ccb36e7cb335c9b6782ab3d9f3df1bb3cf7475c40dda1b",
-  "tamano": 14186496,
-  "version": "4.34"
+  "sha256": "2f5238972764f7144ca1056e9a0713e5389d5970ef505547f69861b022115f8c",
+  "tamano": 14187008,
+  "version": "4.35"
 }
