@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.16.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.17.exe",
   "fecha": "2026-11-14",
-  "firma": "f7593b8090c3be97c7ac1c0b58b8e937b6a3544e2117064847d8617bd553be0db0746e06b4d459a205dbbb57082b292d5a6f5638983cbb2e2918e26e7d986103",
+  "firma": "5b1c65c23ace7fbb4d3a55466a236df920ed95950b45a6b024c6b3a52581e28e00ffce3c1abf6af5ca4bfac9f38509d037155532f67f021c96add2f8f96ff104",
   "notas": [
-    "Etiquetas: la hoja mide lo mismo que la etiqueta (no avanza etiquetas en blanco); perfil AiYin AE240."
+    "Cada computadora guarda sus propias impresoras y su caja; las cajas preguntan qué caja son."
   ],
-  "sha256": "912757f76ff29add86616f59472349e24bb5f6baee2934ae96eb809005cb34c9",
-  "tamano": 14082048,
-  "version": "4.16"
+  "sha256": "e5e3cff0cd70a2126828dbead8a3225ce90735a97ed46ef9bb5fabaf1d2458b7",
+  "tamano": 14085120,
+  "version": "4.17"
 }
