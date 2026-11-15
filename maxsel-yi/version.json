@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.19.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.20.exe",
   "fecha": "2026-11-14",
-  "firma": "fa522026c28936a52fa3529e13c833dc3f10a008977fbd6ad9813500ac6853105579e8a9eadf77ec6f4ce90c084a5a0ba9a1112406a210313999f7c4c2be4906",
+  "firma": "bd57590071dc93ab07eb19951d0c66c4eac75b91fa4621ada9d4fa6b76c28fc75c6616c7320429898ebcd2820ab94cfc297951d67cf7773aceb8b4fe5f801f08",
   "notas": [
-    "YI Computadoras y Maxsel Tech general ya no se mezclan en la red: cada caja solo se conecta a su propio sistema."
+    "Configuración ordenada por secciones: Negocio, Caja y cobro (salvaguarda), Garantías, Esta computadora, Inventario y taller, Red, Tienda en línea y Sistema."
   ],
-  "sha256": "36984c038d8070a7ce99c117fee2aefbecc5da384695706b6cf2863fbd90750f",
-  "tamano": 14090240,
-  "version": "4.19"
+  "sha256": "b0bc295338cc22a33213e7f3981f79782c01c1d57681a00dc82238b1e6e2be96",
+  "tamano": 14095360,
+  "version": "4.20"
 }
