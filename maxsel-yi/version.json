@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.28.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.29.exe",
   "fecha": "2026-11-14",
-  "firma": "72200be966493b6678924e66b3c8856d1bb52e8cfc32a7fb7d91a7e174da512ae0da322e4f490e700f9fdfdc1c802110b14229c9822ebbecdedc1be0f9868d00",
+  "firma": "83e7ee31d3231a6a0f770009ae38f884f971ab7819c01d9c03330bf93f59478d7c343e0dbf398bc6409266bb274a09247d85cee8c31ec8771c2691a8c008e30a",
   "notas": [
-    "La pantalla ya no se recarga ni se mueve sola; solo se reabre si se quedó en blanco al cargar."
+    "Ahora se pueden eliminar usuarios (Usuarios → Editar → Eliminar usuario); sus ventas y cortes anteriores se conservan."
   ],
-  "sha256": "c93aae5f351c59e165c8669a99eae5357bb0d1a2261f5fedec0408f6286fa663",
-  "tamano": 14128640,
-  "version": "4.28"
+  "sha256": "bd806a777a97e04c115115548b7f7bb77491645e060c0277f8b70b4d897997aa",
+  "tamano": 14134784,
+  "version": "4.29"
 }
