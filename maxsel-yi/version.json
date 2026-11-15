@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.22.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.23.exe",
   "fecha": "2026-11-14",
-  "firma": "ba6d0ec7b26cef00a2b474747a7ce09d3295fa4687d88e6a611b01b27ac56e3a59894101c370369f5b835bd1b3716abae2622a4425e97bd3a75d74e6c7476502",
+  "firma": "039966f20e40769261c48290e9952fcc95810241fbd0e3f1eef0fbd651ce716f4ce52ce4495e792965d9279408110291095287d0cf06608d5bd3fbcae4c78b08",
   "notas": [
-    "Cada caja puede elegir si se pone al día sola o solo cuando se pida."
+    "Antes de actualizar avisa si hay cajas con turno abierto. Cambiar precio de venta, ajustes por computadora y configuración por secciones."
   ],
-  "sha256": "bed0bea5862af2a96449d66f1e8c9f06b23c3cf4f0d78929af1d90cdc9703f01",
-  "tamano": 14106624,
-  "version": "4.22"
+  "sha256": "10ad0e104a7cb9e7abedb9e9cd303c6dcf3b360fd2d77fc3cf8e55230157be99",
+  "tamano": 14109696,
+  "version": "4.23"
 }
