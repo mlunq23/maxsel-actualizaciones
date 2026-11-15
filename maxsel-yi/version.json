@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.27.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.28.exe",
   "fecha": "2026-11-14",
-  "firma": "1ebc720e0c4e265f5aaf52b8da8342c88a8f230f858126b3c0c9d29460414fbb719cd87223608743332e53ec0ff24ff31d7cf11a055153322cd0cae5f48b1f00",
+  "firma": "72200be966493b6678924e66b3c8856d1bb52e8cfc32a7fb7d91a7e174da512ae0da322e4f490e700f9fdfdc1c802110b14229c9822ebbecdedc1be0f9868d00",
   "notas": [
-    "Etiquetas: mover a la izquierda, derecha, arriba y abajo con botones."
+    "La pantalla ya no se recarga ni se mueve sola; solo se reabre si se quedó en blanco al cargar."
   ],
-  "sha256": "3bc363905d62d2ce0830c08579d6cfe5e04791abc80f84dc46bbb86fb7d67b80",
-  "tamano": 14129664,
-  "version": "4.27"
+  "sha256": "c93aae5f351c59e165c8669a99eae5357bb0d1a2261f5fedec0408f6286fa663",
+  "tamano": 14128640,
+  "version": "4.28"
 }
