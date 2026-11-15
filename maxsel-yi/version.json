@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.17.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.18.exe",
   "fecha": "2026-11-14",
-  "firma": "5b1c65c23ace7fbb4d3a55466a236df920ed95950b45a6b024c6b3a52581e28e00ffce3c1abf6af5ca4bfac9f38509d037155532f67f021c96add2f8f96ff104",
+  "firma": "af11b3cd0dcb4b47c9196d7574a0585b05a6592966b1761acebc98a68d13c0f4224487f4e8cb485a29d76f26b97504c2b51664a5210c91c4b25dbdfc83612906",
   "notas": [
-    "Cada computadora guarda sus propias impresoras y su caja; las cajas preguntan qué caja son."
+    "Actualizar desde cualquier caja sin errores de permiso; la sesión se conserva al actualizar."
   ],
-  "sha256": "e5e3cff0cd70a2126828dbead8a3225ce90735a97ed46ef9bb5fabaf1d2458b7",
-  "tamano": 14085120,
-  "version": "4.17"
+  "sha256": "59ce8c77d817aef0279588b031b5a62b7c48066fe7f8720e5500bbde777aa942",
+  "tamano": 14089728,
+  "version": "4.18"
 }
