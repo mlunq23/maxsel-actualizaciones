@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.35.exe",
-  "fecha": "2026-11-14",
-  "firma": "6726c624ce961c20647531c069516a7aa265f11a85a1d982d0ac74f1fa3a37ed50cf4d547154848cd415d8317afa5d37e38c428a7082fc9459cbbe1863597f02",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.36.exe",
+  "fecha": "2026-11-16",
+  "firma": "d60d41110ccac644cc3e7141c90b18b7e319de50bd50584297b991f16c84623bdc18b1b05a4d1982df762e9283671b6d3f3888eb29c6b1f1663d4b46a0330a04",
   "notas": [
-    "Zebra LP/TLP 2844: la etiqueta ya sale centrada (antes se cortaba del lado izquierdo). Perfil rápido para la 2844."
+    "Al actualizarse el sistema, las pantallas abiertas cargan solas la versión nueva (o avisan si hay una venta a medias)."
   ],
-  "sha256": "2f5238972764f7144ca1056e9a0713e5389d5970ef505547f69861b022115f8c",
-  "tamano": 14187008,
-  "version": "4.35"
+  "sha256": "abdbfdb158a9036f34e7869ed1c75fb116d27b5692eec91079f6fe91309fe5c1",
+  "tamano": 14189056,
+  "version": "4.36"
 }
