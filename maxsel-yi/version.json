@@ -1,11 +1,11 @@
 {
-  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.36.exe",
+  "exe": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-yi/MaxselYI-4.37.exe",
   "fecha": "2026-11-16",
-  "firma": "d60d41110ccac644cc3e7141c90b18b7e319de50bd50584297b991f16c84623bdc18b1b05a4d1982df762e9283671b6d3f3888eb29c6b1f1663d4b46a0330a04",
+  "firma": "708be78123be6a39aa9931441367eb3375bfe625b191fa0a6fe22766aad51819f8151f1a7f6b50ed3a8241782e93e53dfd300a71db0e73f7d9f504b6b124e10d",
   "notas": [
-    "Al actualizarse el sistema, las pantallas abiertas cargan solas la versión nueva (o avisan si hay una venta a medias)."
+    "Las cajas ya no se quedan con pantallas de versiones viejas guardadas."
   ],
-  "sha256": "abdbfdb158a9036f34e7869ed1c75fb116d27b5692eec91079f6fe91309fe5c1",
-  "tamano": 14189056,
-  "version": "4.36"
+  "sha256": "4caf76b5e74364ff14fd0e6b77bf584872f6daa1f25df0e3e20597af96449697",
+  "tamano": 14189568,
+  "version": "4.37"
 }
