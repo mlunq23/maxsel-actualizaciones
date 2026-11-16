@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.54",
-  "notas": "Cada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes, con su nombre y color\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
-  "apk": "MaxselPOS-1.54.apk",
-  "apkSha": "9903bb48324fd69a85c586798d3667eecbaedc343438fb06b1a3cb3b583d0898",
-  "win": "MaxselPOS-1.54-windows.zip",
-  "winSha": "c03e848ed9091eefd6d26bafa219ac041df2718935d4abe5da616cdf6aeeb6e2"
+  "ver": "1.55",
+  "notas": "Maxsel Abarrotes ahora en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+  "apk": "MaxselPOS-1.55.apk",
+  "apkSha": "92038ab9b2bccf855b9d932c0b9190bc694e27c5a92c6fbb5fe8936984228541",
+  "win": "MaxselPOS-1.55-windows.zip",
+  "winSha": "6f11e03b78bc8a270610a7e2bb3c535942f17d38acf84ae2b99a1a4a659f9012"
  },
  "nube": {
-  "ver": "1.45",
-  "notas": "Cada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes, con su nombre y color\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
-  "apk": "MaxselPOS-Nube-1.45.apk",
-  "apkSha": "ff5327772b05fe33b95bc6105c33e2a9bed7753f570d3477e4ecbce35e139576",
-  "win": "MaxselPOS-Nube-1.45-windows.zip",
-  "winSha": "e3a02a13ddb3565a1bd075268302c595baee4cc8e678a9318bef10eefe719a10"
+  "ver": "1.46",
+  "notas": "Maxsel Abarrotes ahora en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+  "apk": "MaxselPOS-Nube-1.46.apk",
+  "apkSha": "60efe894f4744f194c8ddc5e70a6e7a02f88089f6e68c4b8a73b8cd4c01aa29d",
+  "win": "MaxselPOS-Nube-1.46-windows.zip",
+  "winSha": "d64703d9a4c9a8054e31f477f86f24fd0c575fb40adb139d616364ef6f626b46"
  },
  "hotel": {
   "ver": "1.33",
