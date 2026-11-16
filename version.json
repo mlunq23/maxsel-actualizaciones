@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.55",
-  "notas": "Maxsel Abarrotes ahora en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
-  "apk": "MaxselPOS-1.55.apk",
-  "apkSha": "92038ab9b2bccf855b9d932c0b9190bc694e27c5a92c6fbb5fe8936984228541",
-  "win": "MaxselPOS-1.55-windows.zip",
-  "winSha": "6f11e03b78bc8a270610a7e2bb3c535942f17d38acf84ae2b99a1a4a659f9012"
+  "ver": "1.56",
+  "notas": "El logo de Maxsel ahora sale en blanco sobre el color del sistema, sin recuadro blanco\nMaxsel Abarrotes en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+  "apk": "MaxselPOS-1.56.apk",
+  "apkSha": "10f3bb2b44103dc6e7d70768e0a0bf6f8caae5e01a0edb8dba2ae9033563deb0",
+  "win": "MaxselPOS-1.56-windows.zip",
+  "winSha": "0b9143a6b3e3b0612c83296386d34b58b0fd567e229518695b9498cc29273b19"
  },
  "nube": {
-  "ver": "1.46",
-  "notas": "Maxsel Abarrotes ahora en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
-  "apk": "MaxselPOS-Nube-1.46.apk",
-  "apkSha": "60efe894f4744f194c8ddc5e70a6e7a02f88089f6e68c4b8a73b8cd4c01aa29d",
-  "win": "MaxselPOS-Nube-1.46-windows.zip",
-  "winSha": "d64703d9a4c9a8054e31f477f86f24fd0c575fb40adb139d616364ef6f626b46"
+  "ver": "1.47",
+  "notas": "El logo de Maxsel ahora sale en blanco sobre el color del sistema, sin recuadro blanco\nMaxsel Abarrotes en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+  "apk": "MaxselPOS-Nube-1.47.apk",
+  "apkSha": "6f8e1bfc373ab52f8e73e50b939053ece865e89b47b512fd4f5ffaa48ae4a2d1",
+  "win": "MaxselPOS-Nube-1.47-windows.zip",
+  "winSha": "2d5cce22aced6ccd1779d123c937267278ad6986b0543a94db039ac1700cf704"
  },
  "hotel": {
   "ver": "1.33",
