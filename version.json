@@ -1,19 +1,19 @@
 {
  "pos": {
-  "ver": "1.52",
-  "notas": "Ajustes organizado por apartados: Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia, con buscador\nCorregido: el numero de intentos del PIN ya se guarda",
-  "apk": "MaxselPOS-1.52.apk",
-  "apkSha": "ffab77249202864c893baf7f3da61a0caefef1eb5cc7f39632113abef3770b96",
-  "win": "MaxselPOS-1.52-windows.zip",
-  "winSha": "49a22ed5e33bf704a188612c97090a9a1f80381dd2a3408f923e7fb486053e8d"
+  "ver": "1.54",
+  "notas": "Cada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes, con su nombre y color\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+  "apk": "MaxselPOS-1.54.apk",
+  "apkSha": "9903bb48324fd69a85c586798d3667eecbaedc343438fb06b1a3cb3b583d0898",
+  "win": "MaxselPOS-1.54-windows.zip",
+  "winSha": "c03e848ed9091eefd6d26bafa219ac041df2718935d4abe5da616cdf6aeeb6e2"
  },
  "nube": {
-  "ver": "1.43",
-  "notas": "Ajustes organizado por apartados con buscador (Ticket y negocio, Impresora y cajon, Venta y caja, Restaurante, Permisos, Red y monitoreo, Pantallas y pagos, Respaldo y licencia)\nStock minimo por producto y boton Faltantes\nEl logo del negocio sale en el ticket\nLos datos del negocio se guardan solos al escribir",
-  "apk": "MaxselPOS-Nube-1.43.apk",
-  "apkSha": "bb16eccf7ceab9d0abd8c698be742a78c25a32905d0438f4d68e6da2370f4401",
-  "win": "MaxselPOS-Nube-1.43-windows.zip",
-  "winSha": "8af3424785bfd47f1a917929a16d3c66591e9d369c8a287f100a61b8b20805fa"
+  "ver": "1.45",
+  "notas": "Cada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes, con su nombre y color\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+  "apk": "MaxselPOS-Nube-1.45.apk",
+  "apkSha": "ff5327772b05fe33b95bc6105c33e2a9bed7753f570d3477e4ecbce35e139576",
+  "win": "MaxselPOS-Nube-1.45-windows.zip",
+  "winSha": "e3a02a13ddb3565a1bd075268302c595baee4cc8e678a9318bef10eefe719a10"
  },
  "hotel": {
   "ver": "1.33",
