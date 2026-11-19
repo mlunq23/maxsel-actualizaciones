@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.14.1",
-  "notas": "Visita del día, cambiar fecha de vencimiento y ticket de 58 mm. El pie del ticket ahora solo lleva el logo de Maxsel y \"Sistemas punto de venta para negocios\".",
-  "win": "MaxselGimnasios-1.14.1-windows.zip",
-  "winSha": "3bfc8da6807e81cc241d84243c8b0099b053ddefb020b2693c6bd1cd016105ab"
+  "ver": "1.14.2",
+  "notas": "Visita del día, cambiar fecha de vencimiento y ticket de 58 mm. Pie del ticket más discreto y elegante.",
+  "win": "MaxselGimnasios-1.14.2-windows.zip",
+  "winSha": "9b82f71e456e8235f0816cfad060d7fb4ccb21515827fd12dd0b866123fa1bae"
  },
  "comedor": {
   "ver": "4.11.0",
