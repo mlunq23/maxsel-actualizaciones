@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.13.1",
-  "notas": "Menú organizado por secciones: Caja y ventas, Socios, Tienda, Administración y Sistema.",
-  "win": "MaxselGimnasios-1.13.1-windows.zip",
-  "winSha": "ff1edd6c4665efbc44a644da0776c651e5335199ca76569956b07a2faee09fc0"
+  "ver": "1.13.2",
+  "notas": "Menú organizado por secciones. La casilla de personal del gimnasio (empleado) ahora está junto a estudiante y vecino.",
+  "win": "MaxselGimnasios-1.13.2-windows.zip",
+  "winSha": "17641c0f2decf9db268b0211ccaf84127f100185b87053a7ea02f2b8d6db475e"
  },
  "comedor": {
   "ver": "4.11.0",
