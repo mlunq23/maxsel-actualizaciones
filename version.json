@@ -16,10 +16,10 @@
     "winSha": "b5718573d58def2f241eda6d65dd442f8f804b7d78dc0e12a5f21696c16ff0a2"
   },
   "hotel": {
-    "ver": "1.36",
-    "notas": "Interés moratorio: rentas por semana 10% por cada día de atraso y rentas por mes 10% por cada semana de atraso (se puede cambiar en Configuración).",
-    "win": "MaxselHotel-1.36-windows.zip",
-    "winSha": "78b5fe4b02fc93dc9233c6460a6e4af8c63c009ab0ec26bdba1329d56f38c956"
+    "ver": "1.37",
+    "notas": "Configuración ordenada: menú por grupos con íconos y la pantalla del hotel dividida en secciones; el botón Guardar siempre a la vista.",
+    "win": "MaxselHotel-1.37-windows.zip",
+    "winSha": "8e6abe3d3dc5f3e60149ed30901505f9a64717b46195d7954235cf76ac8efa10"
   },
   "motel": {
     "ver": "1.3.0",
