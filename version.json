@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.14.5",
-  "notas": "Entradas más rápidas con más modelos de lector. El diagnóstico del lector muestra cuántos segundos tarda cada entrada.",
-  "win": "MaxselGimnasios-1.14.5-windows.zip",
-  "winSha": "a49d8896d465ff6ba8c4ebda5d8f9be4d85f6b78b5731ddbaf66ea6d4d1addaf"
+  "ver": "1.14.6",
+  "notas": "Botón \"Descuento a toda la venta\" en Punto de venta y la tecla F12 del botón Cobrar ya se ve.",
+  "win": "MaxselGimnasios-1.14.6-windows.zip",
+  "winSha": "270e4a02d948a05d8c1033d52099b35e375fc93acc79d152b44364cd581e5c78"
  },
  "comedor": {
   "ver": "4.11.0",
