@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.15.0",
-  "notas": "Nuevo apartado Colaboradores: no pagan mensualidad y el lector los deja entrar siempre.",
-  "win": "MaxselGimnasios-1.15.0-windows.zip",
-  "winSha": "637a4551568adfc354193a39d5cd8c9cbc018ed1fa5fc4fcfa40f11e8841278a"
+  "ver": "1.15.1",
+  "notas": "Clientes recién dados de alta: si el lector primero los negó (antes de pagar) y luego los deja pasar, ahora sí aparecen en la pantalla de acceso.",
+  "win": "MaxselGimnasios-1.15.1-windows.zip",
+  "winSha": "ea3778d0b6633dfc0807b497b72a6c7a88973e82b2bbc23a0f5ec33c277a56ad"
  },
  "comedor": {
   "ver": "4.11.0",
