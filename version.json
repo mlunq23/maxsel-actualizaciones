@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.14.3",
-  "notas": "Visita del día, cambiar fecha de vencimiento y ticket de 58 mm. Pie del ticket con el logo de Maxsel y teléfono.",
-  "win": "MaxselGimnasios-1.14.3-windows.zip",
-  "winSha": "caa3e93e3f83168aa658dc359f85a1de2fe95867f9013808b54c62200c74c433"
+  "ver": "1.14.4",
+  "notas": "Configuración ordenada en pestañas. La visita se cobra desde Cobrar membresía (plan de 1 día, sin cliente) y pregunta si abrir la puerta. Ticket con el logo del gimnasio, socio y vigencia.",
+  "win": "MaxselGimnasios-1.14.4-windows.zip",
+  "winSha": "cbf3ccf4b21de4a2e133d8d6f6c61ec738c4b4ab08001815e930272160604206"
  },
  "comedor": {
   "ver": "4.11.0",
