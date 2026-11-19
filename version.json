@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.13.3",
-  "notas": "Las entradas aparecen al instante en la pantalla de acceso (canal en vivo con el lector). Si entran varias personas juntas se muestran una tras otra y un rostro no reconocido ya no tapa al cliente.",
-  "win": "MaxselGimnasios-1.13.3-windows.zip",
-  "winSha": "613ccb2ec010ef22c1a725b7327ca708f2098c57ecb98b5f906f496dcf4a643e"
+  "ver": "1.14.0",
+  "notas": "Visita del día (cobrar la entrada sin registrar al cliente y abrir la puerta). Cambiar a mano la fecha de vencimiento de un cliente. Ticket para impresora de 58 mm con letra más grande y el logo de Maxsel.",
+  "win": "MaxselGimnasios-1.14.0-windows.zip",
+  "winSha": "b8bb6ca8db29f7acb23af5d48b3445625d2fd50b7ca0a6888c1f826ee843e4e5"
  },
  "comedor": {
   "ver": "4.11.0",
