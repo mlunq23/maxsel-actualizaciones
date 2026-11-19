@@ -16,10 +16,10 @@
     "winSha": "b5718573d58def2f241eda6d65dd442f8f804b7d78dc0e12a5f21696c16ff0a2"
   },
   "hotel": {
-    "ver": "1.42",
-    "notas": "Pagar en verde y Registrar salida en rojo; las demás funciones agrupadas en Más opciones. El ticket dice si se cobró interés moratorio, multa o renta.",
-    "win": "MaxselHotel-1.42-windows.zip",
-    "winSha": "1fa139d1a5acb43f542cd5efb5885f10f1bad334041d5cf2d60e516d36e587b9"
+    "ver": "1.43",
+    "notas": "Ventana de cada habitación resumida (lo importante arriba, lo demás en secciones plegadas) y Pagar primero.",
+    "win": "MaxselHotel-1.43-windows.zip",
+    "winSha": "52a220909f7fe419ff370e4f809e252a5f56532ea2bf723b6bf21a1aef80a8aa"
   },
   "motel": {
     "ver": "1.3.0",
