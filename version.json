@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.15.1",
-  "notas": "Clientes recién dados de alta: si el lector primero los negó (antes de pagar) y luego los deja pasar, ahora sí aparecen en la pantalla de acceso.",
-  "win": "MaxselGimnasios-1.15.1-windows.zip",
-  "winSha": "ea3778d0b6633dfc0807b497b72a6c7a88973e82b2bbc23a0f5ec33c277a56ad"
+  "ver": "1.16.0",
+  "notas": "Elegir la impresora de tickets (directo, sin ventana de Windows), corte de papel y cajón de dinero al cobrar en efectivo. Botón Abrir cajón en Punto de venta.",
+  "win": "MaxselGimnasios-1.16.0-windows.zip",
+  "winSha": "50c8360dd757ff87893cd15823a46f157e8bbd84e356e61376db1b11c9d0578c"
  },
  "comedor": {
   "ver": "4.11.0",
