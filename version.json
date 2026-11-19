@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.16.0",
-  "notas": "Elegir la impresora de tickets (directo, sin ventana de Windows), corte de papel y cajón de dinero al cobrar en efectivo. Botón Abrir cajón en Punto de venta.",
-  "win": "MaxselGimnasios-1.16.0-windows.zip",
-  "winSha": "50c8360dd757ff87893cd15823a46f157e8bbd84e356e61376db1b11c9d0578c"
+  "ver": "1.16.1",
+  "notas": "Impresora de tickets directa y cajón de dinero. Los logos con fondo negro ahora se imprimen bien en el ticket.",
+  "win": "MaxselGimnasios-1.16.1-windows.zip",
+  "winSha": "a353e7e803c7f1bc7942de14e6a4b8c7273db1b9e9dc6fad0f3abf88632170ef"
  },
  "comedor": {
   "ver": "4.11.0",
