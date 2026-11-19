@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.13.0",
-  "notas": "Personal del gimnasio (empleados): entran con su cara sin membresía. Reinicio del sistema eligiendo qué borrar (ventas, membresías, entradas, clientes, productos o gastos).",
-  "win": "MaxselGimnasios-1.13.0-windows.zip",
-  "winSha": "184985c6fb6c64edad3c51ea09c102b41c0a48a0eb7de7e8708744ac4dc7e0d1"
+  "ver": "1.13.1",
+  "notas": "Menú organizado por secciones: Caja y ventas, Socios, Tienda, Administración y Sistema.",
+  "win": "MaxselGimnasios-1.13.1-windows.zip",
+  "winSha": "ff1edd6c4665efbc44a644da0776c651e5335199ca76569956b07a2faee09fc0"
  },
  "comedor": {
   "ver": "4.11.0",
