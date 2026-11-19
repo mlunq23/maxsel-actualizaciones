@@ -16,10 +16,10 @@
     "winSha": "b5718573d58def2f241eda6d65dd442f8f804b7d78dc0e12a5f21696c16ff0a2"
   },
   "hotel": {
-    "ver": "1.39",
-    "notas": "Al final del ticket solo sale el logo de Maxsel centrado, sin letras.",
-    "win": "MaxselHotel-1.39-windows.zip",
-    "winSha": "89d79766b05797548988a48b076268500910dfaa35d24158ba5f42ea8be93d82"
+    "ver": "1.40",
+    "notas": "Estado de cuenta corto: solo el último pago, hasta cuándo está pagado y el saldo.",
+    "win": "MaxselHotel-1.40-windows.zip",
+    "winSha": "0b53b6a9e79326e332ef0a9960f98ebb08d50d528fd65df21350258fc70fdd0a"
   },
   "motel": {
     "ver": "1.3.0",
