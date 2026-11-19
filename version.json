@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.14.4",
-  "notas": "Configuración ordenada en pestañas. La visita se cobra desde Cobrar membresía (plan de 1 día, sin cliente) y pregunta si abrir la puerta. Ticket con el logo del gimnasio, socio y vigencia.",
-  "win": "MaxselGimnasios-1.14.4-windows.zip",
-  "winSha": "cbf3ccf4b21de4a2e133d8d6f6c61ec738c4b4ab08001815e930272160604206"
+  "ver": "1.14.5",
+  "notas": "Entradas más rápidas con más modelos de lector. El diagnóstico del lector muestra cuántos segundos tarda cada entrada.",
+  "win": "MaxselGimnasios-1.14.5-windows.zip",
+  "winSha": "a49d8896d465ff6ba8c4ebda5d8f9be4d85f6b78b5731ddbaf66ea6d4d1addaf"
  },
  "comedor": {
   "ver": "4.11.0",
