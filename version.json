@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.14.0",
-  "notas": "Visita del día (cobrar la entrada sin registrar al cliente y abrir la puerta). Cambiar a mano la fecha de vencimiento de un cliente. Ticket para impresora de 58 mm con letra más grande y el logo de Maxsel.",
-  "win": "MaxselGimnasios-1.14.0-windows.zip",
-  "winSha": "b8bb6ca8db29f7acb23af5d48b3445625d2fd50b7ca0a6888c1f826ee843e4e5"
+  "ver": "1.14.1",
+  "notas": "Visita del día, cambiar fecha de vencimiento y ticket de 58 mm. El pie del ticket ahora solo lleva el logo de Maxsel y \"Sistemas punto de venta para negocios\".",
+  "win": "MaxselGimnasios-1.14.1-windows.zip",
+  "winSha": "3bfc8da6807e81cc241d84243c8b0099b053ddefb020b2693c6bd1cd016105ab"
  },
  "comedor": {
   "ver": "4.11.0",
