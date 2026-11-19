@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.16.1",
-  "notas": "Impresora de tickets directa y cajón de dinero. Los logos con fondo negro ahora se imprimen bien en el ticket.",
-  "win": "MaxselGimnasios-1.16.1-windows.zip",
-  "winSha": "a353e7e803c7f1bc7942de14e6a4b8c7273db1b9e9dc6fad0f3abf88632170ef"
+  "ver": "1.16.2",
+  "notas": "Impresora de tickets directa y cajón de dinero. Logo del ticket más chico y con tamaño a elegir (chico, mediano, grande).",
+  "win": "MaxselGimnasios-1.16.2-windows.zip",
+  "winSha": "9a175cc0fbba2f9eaccde052ec46e22523e83361fd89c5fe3990f427200a4e4f"
  },
  "comedor": {
   "ver": "4.11.0",
