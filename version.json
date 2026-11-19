@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.13.2",
-  "notas": "Menú organizado por secciones. La casilla de personal del gimnasio (empleado) ahora está junto a estudiante y vecino.",
-  "win": "MaxselGimnasios-1.13.2-windows.zip",
-  "winSha": "17641c0f2decf9db268b0211ccaf84127f100185b87053a7ea02f2b8d6db475e"
+  "ver": "1.13.3",
+  "notas": "Las entradas aparecen al instante en la pantalla de acceso (canal en vivo con el lector). Si entran varias personas juntas se muestran una tras otra y un rostro no reconocido ya no tapa al cliente.",
+  "win": "MaxselGimnasios-1.13.3-windows.zip",
+  "winSha": "613ccb2ec010ef22c1a725b7327ca708f2098c57ecb98b5f906f496dcf4a643e"
  },
  "comedor": {
   "ver": "4.11.0",
