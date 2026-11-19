@@ -16,10 +16,10 @@
     "winSha": "b5718573d58def2f241eda6d65dd442f8f804b7d78dc0e12a5f21696c16ff0a2"
   },
   "hotel": {
-    "ver": "1.44",
-    "notas": "Registrar salida a la izquierda (rojo) y Pagar a la derecha (verde).",
-    "win": "MaxselHotel-1.44-windows.zip",
-    "winSha": "2d0ed4e7eaffc90a86618d8b06a72d872a7c6dd1d15ec790e497668223acbd49"
+    "ver": "1.45",
+    "notas": "Cancelar renta (solo administrador): cierra la renta aunque tenga saldo pendiente, con motivo.",
+    "win": "MaxselHotel-1.45-windows.zip",
+    "winSha": "78bbd1e5d6423741db541f753aec48e64b5d35a044a551c592f6a3bef464dca8"
   },
   "motel": {
     "ver": "1.3.0",
