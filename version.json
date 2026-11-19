@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.16.2",
-  "notas": "Impresora de tickets directa y cajón de dinero. Logo del ticket más chico y con tamaño a elegir (chico, mediano, grande).",
-  "win": "MaxselGimnasios-1.16.2-windows.zip",
-  "winSha": "9a175cc0fbba2f9eaccde052ec46e22523e83361fd89c5fe3990f427200a4e4f"
+  "ver": "1.16.3",
+  "notas": "Impresora de tickets directa y cajón de dinero. Logo del ticket con tamaño a elegir. Pie del ticket con el logo de Maxsel y su teléfono.",
+  "win": "MaxselGimnasios-1.16.3-windows.zip",
+  "winSha": "c184172f1d5e06a35888ef5def812949d1b7c2e8404549c39eef0925b122ea12"
  },
  "comedor": {
   "ver": "4.11.0",
