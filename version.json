@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.16.5",
-  "notas": "Logo aparte para el ticket impreso (Configuración → Tickets); el logo del sistema no cambia. Impresora directa y cajón de dinero.",
-  "win": "MaxselGimnasios-1.16.5-windows.zip",
-  "winSha": "13491c9d005b679ff666e9753c98977c3e27e691d688b839f4943048999fbba3"
+  "ver": "1.16.6",
+  "notas": "Cuando a un cliente le falta una semana o menos, la pantalla de acceso sale toda en amarillo con \"Tu membresía va a vencer\" y en la lista de clientes su renglón se ve amarillo.",
+  "win": "MaxselGimnasios-1.16.6-windows.zip",
+  "winSha": "ef5df7a545af78550036b45c5d7baff79976a3d6e144881a2360466a182d6c1d"
  },
  "comedor": {
   "ver": "4.11.0",
