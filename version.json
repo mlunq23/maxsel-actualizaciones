@@ -40,10 +40,10 @@
   "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
  },
  "gym": {
-  "ver": "1.14.6",
-  "notas": "Botón \"Descuento a toda la venta\" en Punto de venta y la tecla F12 del botón Cobrar ya se ve.",
-  "win": "MaxselGimnasios-1.14.6-windows.zip",
-  "winSha": "270e4a02d948a05d8c1033d52099b35e375fc93acc79d152b44364cd581e5c78"
+  "ver": "1.15.0",
+  "notas": "Nuevo apartado Colaboradores: no pagan mensualidad y el lector los deja entrar siempre.",
+  "win": "MaxselGimnasios-1.15.0-windows.zip",
+  "winSha": "637a4551568adfc354193a39d5cd8c9cbc018ed1fa5fc4fcfa40f11e8841278a"
  },
  "comedor": {
   "ver": "4.11.0",
