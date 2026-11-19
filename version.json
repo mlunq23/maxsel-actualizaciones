@@ -16,10 +16,10 @@
     "winSha": "b5718573d58def2f241eda6d65dd442f8f804b7d78dc0e12a5f21696c16ff0a2"
   },
   "hotel": {
-    "ver": "1.37",
-    "notas": "Configuración ordenada: menú por grupos con íconos y la pantalla del hotel dividida en secciones; el botón Guardar siempre a la vista.",
-    "win": "MaxselHotel-1.37-windows.zip",
-    "winSha": "8e6abe3d3dc5f3e60149ed30901505f9a64717b46195d7954235cf76ac8efa10"
+    "ver": "1.38",
+    "notas": "Habitaciones agrupadas por unidad: Hotel, Departamentos y Locales comerciales en bloques separados, con ocupadas y disponibles de cada uno.",
+    "win": "MaxselHotel-1.38-windows.zip",
+    "winSha": "2cff33f7e32060e0ff7415774a02f237b183c02e6ecf841f5124244f8fd69ba1"
   },
   "motel": {
     "ver": "1.3.0",
