@@ -1,22 +1,21 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "fecha": "2026-11-25",
   "notas": [
-    "Club de clientes: niveles de socio con descuento automático (general y por departamento)",
-    "Ofertas exclusivas para socios: precio especial o % por producto, departamento o toda la tienda, con fechas",
-    "Descuento de cumpleaños",
-    "Credencial de socio con código de barras: al escanearla en caja se asigna el cliente",
-    "Reporte de ventas y ahorro de socios"
+    "Credencial de socio tamaño tarjeta con foto, QR y código de barras",
+    "Imprimir la credencial en hoja, impresora de tarjetas PVC o ticket",
+    "Mandar la credencial por WhatsApp o guardarla como imagen para mostrarla desde el celular",
+    "Foto del socio con la cámara de la computadora o subiendo una imagen"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.4.0.exe.gz",
-    "sha256": "ceaa02063605b0aaeb9fa5cb6dd15d3b586d5e9ca0ba7df0159ea5e95b16ce9e",
-    "tamano": 23274724
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.4.1.exe.gz",
+    "sha256": "2ce8acb622457bbeacc1ef5e22a82ce7919379d8549477f5c5839fe184525075",
+    "tamano": 23280720
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.4.0.exe",
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.4.1.exe",
     "sha256": "b0586ac17a40547c58ba5a0bfcd3d928957463f04926a6e01ce211f2be33fad0",
     "tamano": 7145984
   },
-  "firma": "+ZE5i4lid+HcUN5I4uK36QrciaxSDMHuc9ix16/2gG9ElanFs3cpMmAqGbXnhrbcX7nj+7bZfRjSmT6GFCMHAg=="
+  "firma": "erpCS7UL7e6e07Udmotp/Ns4O+6xcmOsQmuANsmH7bpX6R0UFh+HfqUQOjYmqZoGQBEp8EkCZbKApk9SBMOfBg=="
 }
