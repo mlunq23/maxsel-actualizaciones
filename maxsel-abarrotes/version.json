@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "fecha": "2026-11-26",
   "notas": [
     "Cobro con el teclado: flechas para cambiar la forma de pago y moverse entre importes",
@@ -10,14 +10,14 @@
     "La pantalla del ticket se cierra sola a los segundos que elijas · botones redondeados"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.1.0.exe.gz",
-    "sha256": "74012b6683777c45e227531034d9d922b671ecdf444d530bdf847f734d205658",
-    "tamano": 22947850
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.1.1.exe.gz",
+    "sha256": "48b87fc556acbc3ece81fe11cb77c98e8665353c9894c808a3ff16ad58db7762",
+    "tamano": 22948206
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.1.0.exe",
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.1.1.exe",
     "sha256": "fcf60fe73c3b5b92090816c1f224923e4f740ab0ddaf09d72750b153e2d384fe",
     "tamano": 7149056
   },
-  "firma": "s1f0JPibTI+W3tmJKkg0PNjOUOaWT+5T3y9xKZ5xdZwN2nkRJ5TB8OLy1oq/ybKPjlS0KnkKxzzr8lGVJCCNDg=="
+  "firma": "Pe6fv+qgdmx2OVLDsgDEySldUrKeSK/9ulZjPRUTlyHGQ1zkGSp+Y/qf9HfxcpaMPR9h0bAufZ96R5C3BMH6AA=="
 }
