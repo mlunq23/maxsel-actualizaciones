@@ -1,54 +1,54 @@
 {
- "pos": {
-  "ver": "1.58",
-  "notas": "Nuevo reporte Historial de inventario: entradas, mermas, ajustes y conteos con filtros por fecha, producto, tipo y empleado\nReportes en hoja carta\nCafe y Restaurante con nuevo color naranja mandarina\nEl logo de Maxsel ahora sale en blanco sobre el color del sistema, sin recuadro blanco\nMaxsel Abarrotes en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
-  "apk": "MaxselPOS-1.58.apk",
-  "apkSha": "2f1a22933d9d4bf5bb67f04e3eca3ad2b365d3081c61c0480d9471eaab295b8c",
-  "win": "MaxselPOS-1.58-windows.zip",
-  "winSha": "07c971019dd3155c13cabf9e9ac51c810d292f5a9478d707d7673fac9451a968"
- },
- "nube": {
-  "ver": "1.49",
-  "notas": "Nuevo reporte Historial de inventario: entradas, mermas, ajustes y conteos con filtros por fecha, producto, tipo y empleado\nReportes en hoja carta\nCafe y Restaurante con nuevo color naranja mandarina\nEl logo de Maxsel ahora sale en blanco sobre el color del sistema, sin recuadro blanco\nMaxsel Abarrotes en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
-  "apk": "MaxselPOS-Nube-1.49.apk",
-  "apkSha": "1065dee5ceb9543fba11a431d500d1aa69033b21df1c6e09183b6a575eacba4b",
-  "win": "MaxselPOS-Nube-1.49-windows.zip",
-  "winSha": "af8066217a808694d9ed75c3d1aeb839ce195bc8f5655d67462664b02a3ca0e9"
- },
- "hotel": {
-  "ver": "1.47",
-  "notas": "Turnos claros: de quién es y desde cuándo está abierto; aviso si viene de antes y antes de cerrar en ceros.",
-  "win": "MaxselHotel-1.47-windows.zip",
-  "winSha": "b7c83ff7c156e02fab4eca0b2a8a927befae676667eba0ded718d63414bef4f6"
- },
- "motel": {
-  "ver": "1.3.0",
-  "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
-  "win": "MaxselMotel-1.3.0-windows.zip",
-  "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
- },
- "carwash": {
-  "ver": "1.7.2",
-  "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
-  "win": "MaxselCarwash-1.7.2-windows.zip",
-  "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
- },
- "parking": {
-  "ver": "2.7.3",
-  "notas": "Gastos solo por licencia, datos de Maxsel siempre en el ticket, cierre de turno con casillas en blanco = 0, sin fondo en dólares",
-  "win": "MaxselParking-2.7.3-windows.zip",
-  "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
- },
- "gym": {
-  "ver": "1.16.6",
-  "notas": "Cuando a un cliente le falta una semana o menos, la pantalla de acceso sale toda en amarillo con \"Tu membresía va a vencer\" y en la lista de clientes su renglón se ve amarillo.",
-  "win": "MaxselGimnasios-1.16.6-windows.zip",
-  "winSha": "ef5df7a545af78550036b45c5d7baff79976a3d6e144881a2360466a182d6c1d"
- },
- "comedor": {
-  "ver": "4.11.0",
-  "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
-  "win": "MaxselComedores-4.11.0-windows.zip",
-  "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
- }
+  "pos": {
+    "ver": "1.58",
+    "notas": "Nuevo reporte Historial de inventario: entradas, mermas, ajustes y conteos con filtros por fecha, producto, tipo y empleado\nReportes en hoja carta\nCafe y Restaurante con nuevo color naranja mandarina\nEl logo de Maxsel ahora sale en blanco sobre el color del sistema, sin recuadro blanco\nMaxsel Abarrotes en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+    "apk": "MaxselPOS-1.58.apk",
+    "apkSha": "2f1a22933d9d4bf5bb67f04e3eca3ad2b365d3081c61c0480d9471eaab295b8c",
+    "win": "MaxselPOS-1.58-windows.zip",
+    "winSha": "07c971019dd3155c13cabf9e9ac51c810d292f5a9478d707d7673fac9451a968"
+  },
+  "nube": {
+    "ver": "1.49",
+    "notas": "Nuevo reporte Historial de inventario: entradas, mermas, ajustes y conteos con filtros por fecha, producto, tipo y empleado\nReportes en hoja carta\nCafe y Restaurante con nuevo color naranja mandarina\nEl logo de Maxsel ahora sale en blanco sobre el color del sistema, sin recuadro blanco\nMaxsel Abarrotes en color azul, igual que Tienda\nCada giro con su propio sistema: Maxsel Cafe, Maxsel Restaurante, Maxsel Tienda (negocios varios) y Maxsel Abarrotes\nCafeteria: sin separador de tiempos, sin mapa de mesas y con una impresora de barra\nRestaurante: al entrar abre mesas y cuentas\nAl abrir turno solo pide el valor del dolar y el fondo en pesos",
+    "apk": "MaxselPOS-Nube-1.49.apk",
+    "apkSha": "1065dee5ceb9543fba11a431d500d1aa69033b21df1c6e09183b6a575eacba4b",
+    "win": "MaxselPOS-Nube-1.49-windows.zip",
+    "winSha": "af8066217a808694d9ed75c3d1aeb839ce195bc8f5655d67462664b02a3ca0e9"
+  },
+  "hotel": {
+    "ver": "1.48",
+    "notas": "Ya no se cobra doble con Extender; el interés solo sobre lo que se debe; el administrador puede corregir las cuentas con cobro doble con un botón.",
+    "win": "MaxselHotel-1.48-windows.zip",
+    "winSha": "a3007275d30d7b4fcf594508d19a3c499778acac9e07cb1e2fe422b8d236f409"
+  },
+  "motel": {
+    "ver": "1.3.0",
+    "notas": "El monitoreo remoto (dirección web de Tailscale) ahora va en la licencia con su propia vigencia, igual que Maxsel Tech. Incluye recuperar contraseña y la nube con código QR.",
+    "win": "MaxselMotel-1.3.0-windows.zip",
+    "winSha": "0ad482d6249450009520d8507bf921d4d952d9f3201663603683f37ff1c44f2b"
+  },
+  "carwash": {
+    "ver": "1.7.2",
+    "notas": "Membresías, Lavadores y Gastos por licencia; cierre de turno con ceros automáticos; datos de Maxsel siempre al final del ticket en letra chica.",
+    "win": "MaxselCarwash-1.7.2-windows.zip",
+    "winSha": "d8a7b66ea5ea1375036cb87ddc57296cee61367c13203bd15b006ec87c7183b8"
+  },
+  "parking": {
+    "ver": "2.7.3",
+    "notas": "Gastos solo por licencia, datos de Maxsel siempre en el ticket, cierre de turno con casillas en blanco = 0, sin fondo en dólares",
+    "win": "MaxselParking-2.7.3-windows.zip",
+    "winSha": "e49b28cd15b51d78141426619c67675e6eb2a03f8de8b3f8115ee8ad359d4d71"
+  },
+  "gym": {
+    "ver": "1.16.6",
+    "notas": "Cuando a un cliente le falta una semana o menos, la pantalla de acceso sale toda en amarillo con \"Tu membresía va a vencer\" y en la lista de clientes su renglón se ve amarillo.",
+    "win": "MaxselGimnasios-1.16.6-windows.zip",
+    "winSha": "ef5df7a545af78550036b45c5d7baff79976a3d6e144881a2360466a182d6c1d"
+  },
+  "comedor": {
+    "ver": "4.11.0",
+    "notas": "Reportes detallados (consumos, vales y ventas por turno, día, semana, mes o empleado) y tiempo configurable para volver a checar.",
+    "win": "MaxselComedores-4.11.0-windows.zip",
+    "winSha": "2d4afe7073bf8d5491e49203422f509d040490b9a0ae27c0e48a25be9343254f"
+  }
 }
