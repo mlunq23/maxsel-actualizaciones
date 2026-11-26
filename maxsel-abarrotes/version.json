@@ -1,22 +1,23 @@
 {
-  "version": "3.0.1",
+  "version": "3.1.0",
   "fecha": "2026-11-26",
   "notas": [
-    "Varias cajas de verdad: cada caja con su turno, su corte y su serie de folios (A, B, C…); inventario y clientes al momento en todas",
-    "Nuevo motor de base de datos más seguro y rápido, con respaldo automático diario",
-    "Bitácora con todos los movimientos del sistema (Reportes › Sistema)",
-    "Reporte de tickets y movimientos de inventario sin límite, con buscador; reimprime cualquier ticket",
-    "Artículo común con departamento y costo; la caja sigue cobrando aunque se caiga la red"
+    "Cobro con el teclado: flechas para cambiar la forma de pago y moverse entre importes",
+    "Corregido: al regresar a Dólares ya no carga el total en pesos como si fueran dólares",
+    "Club de clientes: ya se puede activar, 3 membresías con un solo descuento general, alta rápida con nombre, teléfono y membresía",
+    "El lector de código de barras siempre está listo en Ventas y reconoce si es un producto o la credencial de un socio",
+    "Ctrl+P = artículo común · Ctrl+E = cambiar precio",
+    "La pantalla del ticket se cierra sola a los segundos que elijas · botones redondeados"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.0.1.exe.gz",
-    "sha256": "3bfd068a9d9fedf108072952526cbfc1254082ba0c4a2508497c979c4e6f8cbb",
-    "tamano": 22918100
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.1.0.exe.gz",
+    "sha256": "74012b6683777c45e227531034d9d922b671ecdf444d530bdf847f734d205658",
+    "tamano": 22947850
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.0.1.exe",
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.1.0.exe",
     "sha256": "fcf60fe73c3b5b92090816c1f224923e4f740ab0ddaf09d72750b153e2d384fe",
     "tamano": 7149056
   },
-  "firma": "rYgCCLZl4w04NcVQDu7r8EWyQa4lBjEQ8RA4Ery/61cgtgh7fZTaxrhFAn+AoJtyUgrYN+bdLYIQFu401YaOBg=="
+  "firma": "s1f0JPibTI+W3tmJKkg0PNjOUOaWT+5T3y9xKZ5xdZwN2nkRJ5TB8OLy1oq/ybKPjlS0KnkKxzzr8lGVJCCNDg=="
 }
