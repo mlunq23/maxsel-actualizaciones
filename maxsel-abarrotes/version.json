@@ -1,21 +1,22 @@
 {
-  "version": "2.4.1",
-  "fecha": "2026-11-25",
+  "version": "3.0.1",
+  "fecha": "2026-11-26",
   "notas": [
-    "Credencial de socio tamaño tarjeta con foto, QR y código de barras",
-    "Imprimir la credencial en hoja, impresora de tarjetas PVC o ticket",
-    "Mandar la credencial por WhatsApp o guardarla como imagen para mostrarla desde el celular",
-    "Foto del socio con la cámara de la computadora o subiendo una imagen"
+    "Varias cajas de verdad: cada caja con su turno, su corte y su serie de folios (A, B, C…); inventario y clientes al momento en todas",
+    "Nuevo motor de base de datos más seguro y rápido, con respaldo automático diario",
+    "Bitácora con todos los movimientos del sistema (Reportes › Sistema)",
+    "Reporte de tickets y movimientos de inventario sin límite, con buscador; reimprime cualquier ticket",
+    "Artículo común con departamento y costo; la caja sigue cobrando aunque se caiga la red"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-2.4.1.exe.gz",
-    "sha256": "2ce8acb622457bbeacc1ef5e22a82ce7919379d8549477f5c5839fe184525075",
-    "tamano": 23280720
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.0.1.exe.gz",
+    "sha256": "3bfd068a9d9fedf108072952526cbfc1254082ba0c4a2508497c979c4e6f8cbb",
+    "tamano": 22918100
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-2.4.1.exe",
-    "sha256": "b0586ac17a40547c58ba5a0bfcd3d928957463f04926a6e01ce211f2be33fad0",
-    "tamano": 7145984
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.0.1.exe",
+    "sha256": "fcf60fe73c3b5b92090816c1f224923e4f740ab0ddaf09d72750b153e2d384fe",
+    "tamano": 7149056
   },
-  "firma": "erpCS7UL7e6e07Udmotp/Ns4O+6xcmOsQmuANsmH7bpX6R0UFh+HfqUQOjYmqZoGQBEp8EkCZbKApk9SBMOfBg=="
+  "firma": "rYgCCLZl4w04NcVQDu7r8EWyQa4lBjEQ8RA4Ery/61cgtgh7fZTaxrhFAn+AoJtyUgrYN+bdLYIQFu401YaOBg=="
 }
