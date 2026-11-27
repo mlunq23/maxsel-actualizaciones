@@ -1,21 +1,18 @@
 {
-  "version": "3.1.2",
+  "version": "3.2.0",
   "fecha": "2026-11-27",
   "notas": [
-    "Cobro: F1 cobrar e imprimir, F2 cobrar sin imprimir y Esc cancelar ya funcionan",
-    "Artículo común: Enter y Esc funcionan en todas las casillas",
-    "Teclas + y − suben o bajan la cantidad del producto seleccionado; con 1 pieza, − pregunta si lo quitas",
-    "Esc cierra cualquier ventana y Enter acepta en las ventanas chicas"
+    "Configuración reorganizada por grupos: Mi negocio, Ventas y cobro, Ticket, Usuarios, Equipos y Sistema, cada uno con sus funciones adentro"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.1.2.exe.gz",
-    "sha256": "0cae396d42f350dd6616848a781f41f08a8f228ba41f2486e2c78126f3a93d97",
-    "tamano": 22951026
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.2.0.exe.gz",
+    "sha256": "1812ea0f8720ac062762f46f23ea4d34f0adfe07205a66b757d7e8d5be51a25b",
+    "tamano": 22952212
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.1.2.exe",
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.2.0.exe",
     "sha256": "fcf60fe73c3b5b92090816c1f224923e4f740ab0ddaf09d72750b153e2d384fe",
     "tamano": 7149056
   },
-  "firma": "PZbBKMTe18BgI/r/RUWSqMdsi1v/0FvRzpmDBT/cT6BvPoL5G1j+tjX+KZG+UyYx8YeeacEG+691RU+dsrdTBQ=="
+  "firma": "hRlGoVab8vmfaJqwSmKMT2Sgcw9DRnUQORQEPfSDk6Uao4V6FiAxEz0258FovXREtImF4oUO87HD4s2uJ1PmDA=="
 }
