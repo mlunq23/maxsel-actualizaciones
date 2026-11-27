@@ -1,23 +1,21 @@
 {
-  "version": "3.1.1",
-  "fecha": "2026-11-26",
+  "version": "3.1.2",
+  "fecha": "2026-11-27",
   "notas": [
-    "Cobro con el teclado: flechas para cambiar la forma de pago y moverse entre importes",
-    "Corregido: al regresar a Dólares ya no carga el total en pesos como si fueran dólares",
-    "Club de clientes: ya se puede activar, 3 membresías con un solo descuento general, alta rápida con nombre, teléfono y membresía",
-    "El lector de código de barras siempre está listo en Ventas y reconoce si es un producto o la credencial de un socio",
-    "Ctrl+P = artículo común · Ctrl+E = cambiar precio",
-    "La pantalla del ticket se cierra sola a los segundos que elijas · botones redondeados"
+    "Cobro: F1 cobrar e imprimir, F2 cobrar sin imprimir y Esc cancelar ya funcionan",
+    "Artículo común: Enter y Esc funcionan en todas las casillas",
+    "Teclas + y − suben o bajan la cantidad del producto seleccionado; con 1 pieza, − pregunta si lo quitas",
+    "Esc cierra cualquier ventana y Enter acepta en las ventanas chicas"
   ],
   "servidor": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.1.1.exe.gz",
-    "sha256": "48b87fc556acbc3ece81fe11cb77c98e8665353c9894c808a3ff16ad58db7762",
-    "tamano": 22948206
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-Servidor-3.1.2.exe.gz",
+    "sha256": "0cae396d42f350dd6616848a781f41f08a8f228ba41f2486e2c78126f3a93d97",
+    "tamano": 22951026
   },
   "lanzador": {
-    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.1.1.exe",
+    "url": "https://github.com/mlunq23/maxsel-actualizaciones/raw/main/maxsel-abarrotes/MaxselAbarrotes-3.1.2.exe",
     "sha256": "fcf60fe73c3b5b92090816c1f224923e4f740ab0ddaf09d72750b153e2d384fe",
     "tamano": 7149056
   },
-  "firma": "Pe6fv+qgdmx2OVLDsgDEySldUrKeSK/9ulZjPRUTlyHGQ1zkGSp+Y/qf9HfxcpaMPR9h0bAufZ96R5C3BMH6AA=="
+  "firma": "PZbBKMTe18BgI/r/RUWSqMdsi1v/0FvRzpmDBT/cT6BvPoL5G1j+tjX+KZG+UyYx8YeeacEG+691RU+dsrdTBQ=="
 }
