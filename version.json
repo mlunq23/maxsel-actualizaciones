@@ -16,10 +16,10 @@
     "winSha": "af8066217a808694d9ed75c3d1aeb839ce195bc8f5655d67462664b02a3ca0e9"
   },
   "hotel": {
-    "ver": "1.49",
-    "notas": "Se quitó Extender: todo se cobra con Pagar, con botones para adelantar semanas o meses.",
-    "win": "MaxselHotel-1.49-windows.zip",
-    "winSha": "92fb566cbe576eea2f3d887df6d178379f4be30939c97e6a809da238aac88667"
+    "ver": "1.50",
+    "notas": "Botón Cambiar usuario sin salir del sistema y botón fijo Revisar cobros dobles para el administrador.",
+    "win": "MaxselHotel-1.50-windows.zip",
+    "winSha": "38976bbd01f543ab33cec60e8448e79d40d2dfa21be44cd10ca470ccb6b87e6c"
   },
   "motel": {
     "ver": "1.3.0",
